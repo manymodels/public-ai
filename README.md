@@ -5,7 +5,7 @@ This is the (temporary) home of efforts to advance public AI: publicly accessibl
 
 - [Main Collaborative Working Document](https://docs.google.com/document/d/1ykjsXpTRZu4Obu9miJlkR9vIqWSLey5m0G4Utlm6HBg/edit), intended for all contributors, currently the best overview
 - [Policy Pitch](https://docs.google.com/document/d/e/2PACX-1vTscz9Q0NicGogTcs2CpCKOFX-_GYvwKFRgp8G51DeZd-03Z17frbA1tCeybv2BE5szKG1k1VOriDX6/pub), intended for policymakers
-- [Workshop Paper], intended for ML researchers
+- [Workshop Paper](https://openreview.net/pdf?id=TFWnViI30j), intended for ML researchers
 - Edited notes from NYU Seminar on Public AI on Sep. 14, 2023 (forthcoming)
 - Policy Paper (forthcoming)
 
