@@ -12,8 +12,11 @@ This is the (temporary) home of efforts to advance public AI: publicly accessibl
 ## Events
 
 - November 16, 2023: BritGPT at Chatham House
+- September 21, 2023: [Talk at AI: Ethical Paths Forward](https://archive.org/details/dweb-meetup-september-2023-ai-ethical-paths-forward) hosted by the Internet Archive
 - September 14, 2023: [Public AI Seminar](https://www.eventbrite.com/e/public-ai-seminar-tickets-716665073527) at the Engelberg Center on Innovation Law & Policy at NYU School of Law
 - July 3 - July 10, 2023: [AI Palace](https://www.aipalace.org/) at Bueckeburg Palace
+
+Still to be scheduled: technical meeting at MIT.
 
 ## Getting involved
 
