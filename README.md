@@ -11,8 +11,9 @@ This is the (temporary) home of efforts to advance public AI: publicly accessibl
 
 ## Events
 
-- November 16, 2023: BritGTP at Chatham House
+- November 16, 2023: BritGPT at Chatham House
 - September 14, 2023: [Public AI Seminar](https://www.eventbrite.com/e/public-ai-seminar-tickets-716665073527) at the Engelberg Center on Innovation Law & Policy at NYU School of Law
+- July 3 - July 10, 2023: [AI Palace](https://www.aipalace.org/) at Bueckeburg Palace
 
 ## Getting involved
 
@@ -20,7 +21,7 @@ Public AI is a public, collaborative effort.
 
 - To edit this site (e.g. to add an event or a relevant document), go to [https://github.com/manymodels/public-ai](https://github.com/manymodels/public-ai) and edit the README.md file directly.
 - Join the [mailing list](https://groups.google.com/g/public-ai).
-- If you have questions, contact one of the organizers: [Josh, USA/UK](mailto:josh_at_metagov_dot_org), [Nick, USA](mailto:nick_at_publicknowledge_dot_org), and [SJ, USA]()
+- If you have questions about public AI or want to figure out how to get involved, contact us: [hello@publicai.network](mailto:hello@publicai.network)
 
 ## Acknowledgements
 
