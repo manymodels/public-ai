@@ -1,6 +1,6 @@
 theme: minima
-title: Public AI
-description: An advocacy program
+title: Public AI Network
+description: An coalition to build public AI
 
 # Theme-specific settings
 
@@ -32,7 +32,7 @@ minima:
 # If you want to link only specific pages in your header, uncomment this and add the path to the pages in
 # order as they should show up.
 #
-# header_pages:
+header_pages:
 #  - RQs.md
 #  - FAQ.md
 
