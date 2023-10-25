@@ -29,3 +29,6 @@ Public AI is a public, collaborative effort.
 ## Acknowledgements
 
 A [wide range of people](https://docs.google.com/document/d/1ykjsXpTRZu4Obu9miJlkR9vIqWSLey5m0G4Utlm6HBg/edit#heading=h.v36dq6wln0nk) have contributed ideas and time to the coalition to promote and build public AI. We gratefully acknowledge operational support by [Metagov](https://metagov.org), [Public Knowledge](https://publicknowledge.org), [Code for Science and Society](https://www.codeforsociety.org/), and [Chatham House](https://www.chathamhouse.org/).
+
+## License
+The work in this repository is licensed under the [Creative Commons Attribution-ShareAlike 4.0 International license](https://creativecommons.org/licenses/by-sa/4.0/).
