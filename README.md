@@ -1,4 +1,3 @@
-# Public AI
 This is the (temporary) home of efforts to advance public AI: publicly accessible AI models funded, provisioned, and governed by governments or other public bodies on behalf of their citizens.
 
 ## Documents
