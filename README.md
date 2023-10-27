@@ -1,6 +1,30 @@
-This is the (temporary) home of efforts to advance public AI: publicly accessible AI models funded, provisioned, and governed by governments or other public bodies on behalf of their citizens.
+# We need public capacity in Artificial Intelligence for the public good.
 
-## Documents
+## What Is Public AI?
+
+- Public AI is **built by the public sector**: guaranteeing AI capacity is not limited to Big Tech.
+- Public AI is **accessible**: ensuring that AI delivers benefits to all.
+- Public AI is **accountable**: ensurin that AI reflects society's values.
+- Public AI is being researched and built **right now** - all around the world.
+
+[Learn More About Our Definition](https://docs.google.com/document/d/1ykjsXpTRZu4Obu9miJlkR9vIqWSLey5m0G4Utlm6HBg/edit)
+
+## Why We Need It
+
+- Limited public capacity in AI is stifling our ability to actively shape the direction of society
+- AI will become permanent essential infrastructure like train tracks and water pipelines - we can't leave this to the private sector.
+- AI systems are growing in power and must reflect society's values - not the interests of shareholders.
+- The private sector has a head start - and without investment in public capacity it will be hard to catch up
+
+## Who We Are
+
+We are a coalition advocating for the creation of Public AI. Our aims are to:
+
+- Make sure public capacity building is part of the conversation about AI
+- Make it easier to build Public AI by coordinating research efforts in the ML community
+- Support policymakers seeking to impelement Public AI
+
+## Learn More
 
 - [Main Collaborative Working Document](https://docs.google.com/document/d/1ykjsXpTRZu4Obu9miJlkR9vIqWSLey5m0G4Utlm6HBg/edit), intended for all contributors, currently the best overview
 - [Policy Pitch](https://docs.google.com/document/d/e/2PACX-1vTscz9Q0NicGogTcs2CpCKOFX-_GYvwKFRgp8G51DeZd-03Z17frbA1tCeybv2BE5szKG1k1VOriDX6/pub), intended for policymakers
