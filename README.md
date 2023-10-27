@@ -1,4 +1,4 @@
-# We need public capacity in Artificial Intelligence for the public good.
+### We need public capacity in Artificial Intelligence for the public good.
 
 ## What Is Public AI?
 
