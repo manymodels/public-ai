@@ -1,34 +1,34 @@
-> We need public capacity in Artificial Intelligence for the public good.
+> We need public capacity in AI for the public good.
 
-## What is Public AI?
+## What is public AI?
 
 - Public AI is **built by the public sector**: ensuring AI capacity is not limited to Big Tech.
 - Public AI is **accessible**: ensuring AI delivers benefits to all.
 - Public AI is **accountable**: ensuring AI reflects society's values.
 - Public AI is being designed and built **right now** - all around the world.
 
-[Learn More About Our Definition](https://docs.google.com/document/d/1ykjsXpTRZu4Obu9miJlkR9vIqWSLey5m0G4Utlm6HBg/edit)
+[Learn more about our definition](https://docs.google.com/document/d/1ykjsXpTRZu4Obu9miJlkR9vIqWSLey5m0G4Utlm6HBg/edit)
 
-## Why do we need Public AI?
+## Why do we need public AI?
 
-- Limited public capacity in AI is stifling flexibility to shape the direction of society.
+- Limited public capacity in AI is stifling our collective capacity to shape the direction of society.
 - AI is becoming essential infrastructure, like roads and water pipelines - fitting for the public sector.
 - AI systems are growing in power and should reflect society's values, not the values of shareholders.
-- Private companies have a head start - without investment in public capacity the gap will grow.
+- Private companies have a head start - without investment in public capacity now, the gap will grow.
 
 ## Who we are
 
-We are a coalition working to bring about Public AI. Our aims are to:
+The **Public AI Network** is a coalition working to bring about public AI. Our aims are to:
 
 - Ensure public capacity-building is part of the conversation about AI design, policy, and funding
-- Make it easier to build Public AI by coordinating research efforts in the ML community
-- Support policymakers and technical teams seeking to implement Public AI
+- Make it easier to build public AI by coordinating research efforts in the ML community
+- Support policymakers and technical teams seeking to implement public AI
 
 ## Learn more
 
 - [Main Collaborative Working Document](https://docs.google.com/document/d/1ykjsXpTRZu4Obu9miJlkR9vIqWSLey5m0G4Utlm6HBg/edit), currently the best general overview
 - [Policy Pitch](https://docs.google.com/document/d/e/2PACX-1vTscz9Q0NicGogTcs2CpCKOFX-_GYvwKFRgp8G51DeZd-03Z17frbA1tCeybv2BE5szKG1k1VOriDX6/pub), intended for policymakers
-- [Workshop Paper](https://openreview.net/pdf?id=TFWnViI30j), intended for ML researchers
+- Workshop Paper, intended for ML researchers (forthcoming)
 - Edited notes from NYU Public AI seminar (Sep. 14, 2023 : forthcoming)
 - Policy Paper (forthcoming)
 
@@ -41,11 +41,11 @@ We are a coalition working to bring about Public AI. Our aims are to:
 - September 14, 2023: [Public AI Seminar](https://www.eventbrite.com/e/public-ai-seminar-tickets-716665073527) at NYU's Engelberg Center on Innovation Law & Policy
 - July 3 - July 10, 2023: [AI Palace](https://www.aipalace.org/) at Bueckeburg Palace
 
-To be scheduled: technical meeting at MIT.
+To be scheduled: technical meetings at MIT in November and at NeurIPS 2023 in December.
 
 ## Getting involved
 
-Public AI is a public, collaborative effort. 
+Public AI is a public, collaborative effort.
 
 - To edit this site (e.g. to add an event or document), go to [https://github.com/manymodels/public-ai](https://github.com/manymodels/public-ai) and edit the README.md file.
 - For questions about public AI or to get involved, join the [mailing list](https://groups.google.com/g/public-ai) or [contact us](mailto:hello@publicai.network)
