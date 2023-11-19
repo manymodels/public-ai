@@ -1,3 +1,5 @@
+# Public AI Network
+
 ## What is public AI?
 
 - Public AI is **built by the public sector**: ensuring AI capacity is not limited to Big Tech.
