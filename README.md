@@ -1,4 +1,4 @@
-# Public AI Network
+> Imagine a world where _we_ shape the future of AI.
 
 ## What is public AI?
 
