@@ -1,4 +1,4 @@
-> Imagine a world where _we_ shape the future of AI.
+> Imagine a world where **we** shape the future of AI.
 
 ## What is public AI?
 
