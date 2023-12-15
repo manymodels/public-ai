@@ -1,4 +1,4 @@
-> AI as Public Infrastructure: Accountable, equitable and accessible
+> AI as public infrastructure
 
 ## What is public AI?
 
