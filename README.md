@@ -1,4 +1,4 @@
-> Public AI delivers the future of digital infrastructure accountably, accessibly, and in the public interest.
+> AI as Public Infrastructure: Accountable, equitable and accessible
 
 ## What is public AI?
 
