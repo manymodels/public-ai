@@ -1,4 +1,4 @@
-> Imagine a world where **we** shape the future of AI.
+> Public AI delivers the future of digital infrastructure accountably, accessibly, and in the public interest.
 
 ## What is public AI?
 
