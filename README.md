@@ -31,22 +31,27 @@ The **Public AI Network** is a coalition working to bring about public AI. Our a
 - [Workshop Paper @ NeurIPS 2023](https://arxiv.org/abs/2311.11350), intended for ML researchers
 - Policy Paper (forthcoming)
 
-## Events
-
-- November 16, 2023: [Public & Civic AI Social #2](https://lu.ma/zo0vnony) at Newspeak House
-- October 17, 2023: [Public & Civic AI Social #1](https://lu.ma/public-civic-ai-social) at Newspeak House
-- September 21, 2023: [Talk at AI: Ethical Paths Forward](https://archive.org/details/dweb-meetup-september-2023-ai-ethical-paths-forward) hosted by the Internet Archive
-- September 14, 2023: [Public AI Seminar](https://www.eventbrite.com/e/public-ai-seminar-tickets-716665073527) at NYU's Engelberg Center on Innovation Law & Policy
-- July 3 - July 10, 2023: [AI Palace](https://www.aipalace.org/) at Bueckeburg Palace
-
-To be scheduled: technical meetings at MIT in November and at NeurIPS 2023 in December.
-
 ## Getting involved
 
 Public AI is a public, collaborative effort.
 
+- The [main project document](https://docs.google.com/document/d/1ykjsXpTRZu4Obu9miJlkR9vIqWSLey5m0G4Utlm6HBg/edit) is publicly-editable. Add a suggestion!
 - To edit this site (e.g. to add an event or document), go to [https://github.com/manymodels/public-ai](https://github.com/manymodels/public-ai) and edit the README.md file.
 - For questions about public AI or to get involved, join the [mailing list](https://groups.google.com/g/public-ai) or [contact us](mailto:hello@publicai.network)
+
+## Events
+
+- (forthcoming) July 24, 2024: Public AI Meet-up at ICML 2024
+- (forthcoming) July 15 - July 21, 2024: [AI Palace 2024](https://www.aipalace.org/) at Bueckeburg Palace
+- January 10, 2024: [Public & Civic AI Social #3](https://lu.ma/qalguhzr) at Newspeak House
+- December 14, 2023: [Public AI Dinner Party](https://lu.ma/public-ai-dinner-party-neurips-2023) at NeurIPS 2023
+- November 16, 2023: [Public & Civic AI Social #2](https://lu.ma/zo0vnony) at Newspeak House
+- October 17, 2023: [Public & Civic AI Social #1](https://lu.ma/public-civic-ai-social) at Newspeak House
+- September 21, 2023: [Talk at AI: Ethical Paths Forward](https://archive.org/details/dweb-meetup-september-2023-ai-ethical-paths-forward) hosted by the Internet Archive
+- September 14, 2023: [Public AI Seminar](https://www.eventbrite.com/e/public-ai-seminar-tickets-716665073527) at NYU's Engelberg Center on Innovation Law & Policy
+- July 3 - July 10, 2023: [AI Palace 2023](https://www.aipalace.org/) at Bueckeburg Palace
+
+To be scheduled: technical meeting at MIT in 2024, meet-up at .
 
 ## Acknowledgements
 
