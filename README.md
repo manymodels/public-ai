@@ -28,7 +28,7 @@ The **Public AI Network** is a coalition working to bring about public AI. Our a
 
 - [Main Collaborative Working Document](https://docs.google.com/document/d/1ykjsXpTRZu4Obu9miJlkR9vIqWSLey5m0G4Utlm6HBg/edit), currently the best general overview
 - [Policy Brief](https://docs.google.com/document/d/e/2PACX-1vTscz9Q0NicGogTcs2CpCKOFX-_GYvwKFRgp8G51DeZd-03Z17frbA1tCeybv2BE5szKG1k1VOriDX6/pub), intended for policymakers
-- [Workshop Paper @ NeurIPS 2023](https://arxiv.org/abs/2311.11350), intended for ML researchers
+- [Workshop Paper @ NeurIPS 2023](https://arxiv.org/abs/2311.11350) + [poster](https://docs.google.com/presentation/d/e/2PACX-1vTTPlkbPBeLAjzfQzx72DsS4VwBFY3YLYvX_cCLNw83FWs0zoLoaDSYjgFbdgi8zQ/pub?start=false&loop=false&delayms=3000), intended for ML researchers
 - Policy Paper (forthcoming)
 
 ## Getting involved
