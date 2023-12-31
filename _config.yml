@@ -33,7 +33,7 @@ minima:
 # order as they should show up.
 #
 header_pages:
-- seminar/seminar.md
+- seminar.md
 
 # Set to `true` to show excerpts on the homepage.
 #
