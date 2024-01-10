@@ -3,7 +3,7 @@
 A research seminar to study public AI and other forms of public interest AI.
 
 ## Sessions
-- January 9 ([Video](https://archive.org/details/public-ai-schneier), Public Notes): Public options for AI, with Bruce Schneier (Harvard) 
+- January 9: Public options for AI, with Bruce Schneier (Harvard) - [Video](https://archive.org/details/public-ai-schneier), Public Notes
 - January 16: Public policy for tech, with Diane Coyle (Cambridge)
 - January 23: Case study: AuroraGPT, with Rick Stevens (Chicago / Argonne National Labs)
 - January 23: Case study: BritGPT, with Hannah O’Rourke (Labour Longterm)
