@@ -37,6 +37,7 @@ The **Public AI Network** is a coalition working to bring about public AI. Our a
 Public AI is a public, collaborative effort.
 
 - The [main project document](https://docs.google.com/document/d/1ykjsXpTRZu4Obu9miJlkR9vIqWSLey5m0G4Utlm6HBg/edit) is publicly-editable. Add a suggestion!
+- [We're recruiting](https://docs.google.com/document/d/1jtfzDaQHqHaF8gypFmqo8JZwQvgKFdYHFG2rjxLst0k/edit)!
 - To edit this site (e.g. to add an event or document), go to [https://github.com/manymodels/public-ai](https://github.com/manymodels/public-ai) and edit the README.md file.
 - For questions about public AI or to get involved, sign up for [the newsletter](https://publicai.substack.com/), join the [Google Group](https://groups.google.com/g/public-ai), or [contact us](mailto:hello@publicai.network).
 
