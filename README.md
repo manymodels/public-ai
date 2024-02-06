@@ -46,6 +46,7 @@ Public AI is a public, collaborative effort.
 - (forthcoming) July 24, 2024: Public AI Meet-up at ICML 2024
 - (forthcoming) July 15 - July 21, 2024: [AI Palace 2024](https://www.aipalace.org/) at Bueckeburg Palace
 - January 2 - February 27, 2024: [Public AI Seminar](https://publicai.network/seminar.html)
+- January 8, 2024: [Public & Civic AI Social #3](https://lu.ma/qalguhzr) at Newspeak House
 - December 14, 2023: [Public AI Dinner Party](https://lu.ma/public-ai-dinner-party-neurips-2023) at NeurIPS 2023
 - November 16, 2023: [Public & Civic AI Social #2](https://lu.ma/zo0vnony) at Newspeak House
 - October 17, 2023: [Public & Civic AI Social #1](https://lu.ma/public-civic-ai-social) at Newspeak House
@@ -53,7 +54,7 @@ Public AI is a public, collaborative effort.
 - September 14, 2023: [Public AI Seminar](https://www.eventbrite.com/e/public-ai-seminar-tickets-716665073527) at NYU's Engelberg Center on Innovation Law & Policy
 - July 3 - July 10, 2023: [AI Palace 2023](https://www.aipalace.org/) at Bueckeburg Palace
 
-To be scheduled: technical meeting at MIT in 2024, [Public & Civic AI Social #3](https://lu.ma/qalguhzr) at Newspeak House.
+To be scheduled: technical meeting at MIT in 2024, governmental meeting at Library of Congress in 2024.
 
 ## Acknowledgements
 
