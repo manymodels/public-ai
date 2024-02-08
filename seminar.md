@@ -7,7 +7,7 @@ A research seminar to study public AI and other forms of public interest AI.
 - January 16: Public policy for tech, with Diane Coyle (Cambridge) - [Video](https://archive.org/details/public-ai-coyle), [Summary](https://docs.google.com/document/d/1n3DcShalIqN0drYMJbbZBANNWbKznAtiT5n3jtsz0tM/edit)
 - January 23: Case study: AuroraGPT & BritGPT, with Rick Stevens (Chicago / Argonne National Labs) and Hannah O’Rourke (Labour Longterm) - [Video](https://archive.org/details/public-ai-stevens-orourke), [Summary](https://docs.google.com/document/d/1B2hpWIP-8kXCHuMuJ9ocr3Nk-R-M37OavXLyefiWiUQ/edit)
 - January 30: Break
-- February 6: The politics of AI, with Julia Angwin (New York Times / Harvard)
+- February 6: The politics of AI, with Julia Angwin (New York Times / Harvard) - [Video](https://archive.org/details/public-ai-angwin), [Summary](https://docs.google.com/document/d/14KkrfR7dLQcrUotxhXDQhoTHSV0wg6ehWpPddt6gyko/edit)
 - February 13: Industrial organization and antimonopoly, with Ganesh Sitaraman (Vanderbilt)
 - February 20: Lessons from digital public infrastructure, with David Eaves (UCL)
 - February 27: Regulation and regulability of AI, with Lawrence Lessig (Harvard)
