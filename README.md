@@ -26,6 +26,7 @@ The **Public AI Network** is a coalition working to bring about public AI. Our a
 
 ## Learn more
 
+- [White Paper (draft)](https://docs.google.com/document/d/1b8xYlNBCtUHCQHSsNwklR8ivqmNgCK0qeQ-LwjSEHMk/edit?usp=sharing)
 - [Main Collaborative Working Document](https://docs.google.com/document/d/1ykjsXpTRZu4Obu9miJlkR9vIqWSLey5m0G4Utlm6HBg/edit), currently the best general overview
 - [Policy Brief](https://docs.google.com/document/d/e/2PACX-1vTscz9Q0NicGogTcs2CpCKOFX-_GYvwKFRgp8G51DeZd-03Z17frbA1tCeybv2BE5szKG1k1VOriDX6/pub), intended for policymakers
 - [Seminar Notes & Recordings](https://publicai.network/seminar.html)
