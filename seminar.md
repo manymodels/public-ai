@@ -10,7 +10,7 @@ A research seminar to study public AI and other forms of public interest AI.
 - February 6: The politics of AI, with Julia Angwin (New York Times / Harvard) - [Video](https://archive.org/details/public-ai-angwin), [Summary](https://docs.google.com/document/d/14KkrfR7dLQcrUotxhXDQhoTHSV0wg6ehWpPddt6gyko/edit)
 - February 13: Industrial organization and antimonopoly, with Ganesh Sitaraman (Vanderbilt) - [Video](https://archive.org/details/public-ai-sitaraman), [Summary](https://docs.google.com/document/d/1tJMZ0QHDO2fn1R_Ilftpx9nwliBy_CIufxFfPIgAltU/edit)
 - February 20: Lessons from digital public infrastructure, with David Eaves (UCL) - [Video](https://archive.org/details/public-ai-eaves), [Summary](https://docs.google.com/document/d/1kuVO1-7o_RQCMk6USywjrlX-31q3beOAWDChAFvJIAk/edit)
-- February 27: AI and democracy, with Lawrence Lessig (Harvard)
+- February 27: AI and democracy, with Lawrence Lessig (Harvard) - [Video](https://archive.org/details/public-ai-lessig), [Summary](https://docs.google.com/document/d/1jHePFaAw_0MJSBqZ84Toep1GS3HR5DftpyHTzTTL8qk/edit)
 - March 5: TBA
 
 ## Details
