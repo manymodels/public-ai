@@ -3,7 +3,7 @@
 A research seminar to study public AI and other forms of public interest AI.
 
 ## Season 2
-Season 2 will run through August and September. The final schedule will be posted in early August.
+Season 2 will run through August and September, starting on August 13, 2024. The final schedule will be posted in early August.
 
 If you are interested in joining the seminar, please [apply here](https://forms.gle/na1Ynu6xQnk147vS6) by July 20, 2024.
 
