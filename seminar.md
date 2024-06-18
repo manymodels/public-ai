@@ -21,10 +21,11 @@ If you are interested in joining the seminar, please [apply here](https://forms.
 - March 5: Synthesis
 
 ## Details
-- Organizers: Joshua Tan (Oxford, Metagov), SJ Klein (Berkman, Interlace), Alex Krasodomski (Chatham House), Nick Garcia (Public Knowledge)
+- Organizers: Joshua Tan (Oxford, Metagov), Alex Krasodomski (Chatham House), B Cavello (Aspen Digital)
 - Format: the seminar is invite-only. The first half of the seminar, reserved for invited talks, is recorded via Zoom and posted online. Notes from the entire seminar will be summarized without named attribution under the Chatham House rule.
 - Meeting times: every Tuesday from 11am - 1pm ET over Zoom.
-- Recordings and notes will be posted online at publicai.network/seminar/
+- Recordings and notes will be posted online at [https://publicai.network/seminar](https://publicai.network/seminar).
+- Previous organizers: SJ Klein (Berkman, Interlace), Nick Garcia (Public Knowledge).
 
 ## Goals
 The Public AI Seminar has two parallel objectives: 
