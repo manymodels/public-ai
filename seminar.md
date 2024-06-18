@@ -3,9 +3,9 @@
 A research seminar to study public AI and other forms of public interest AI.
 
 ## Season 2
-Season 2 will run through August and September.
+Season 2 will run through August and September. The final schedule will be posted in early August.
 
-If you are interested in joining the seminar, please [apply here](https://forms.gle/na1Ynu6xQnk147vS6) by July 1, 2024.
+If you are interested in joining the seminar, please [apply here](https://forms.gle/na1Ynu6xQnk147vS6) by July 20, 2024.
 
 ## Season 1
 - January 9: Public options for AI, with Bruce Schneier (Harvard) - [Video](https://archive.org/details/public-ai-schneier), [Summary](https://docs.google.com/document/d/1j0foQVDe0ELYJCrZxOM7ueSiXFVvWr84Hycl2ZdeWFE/edit)
