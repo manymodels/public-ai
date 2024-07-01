@@ -44,8 +44,9 @@ Public AI is a public, collaborative effort.
 
 ## Events
 
-- (forthcoming) July 24, 2024: Public AI Meet-up at ICML 2024
-- (forthcoming) July 15 - July 21, 2024: [AI Palace 2024](https://www.aipalace.org/) at Bueckeburg Palace
+- (forthcoming) August 13-14, 2024: [Building a More Public AI Ecosystem](https://publicai.us) at the Library of Congress.
+- (forthcoming) July 24, 2024: [Public AI Social #4](https://lu.ma/oxdb3ryc) at ICML 2024
+- (forthcoming) July 15-21, 2024: [AI Palace 2024](https://www.aipalace.org/) at Bueckeburg Palace
 - March 13, 2024: [Public Visions for AI Workshop](https://lu.ma/mqop6d2c) at Newspeak House
 - January 2 - February 27, 2024: [Public AI Seminar](https://publicai.network/seminar.html)
 - January 8, 2024: [Public & Civic AI Social #3](https://lu.ma/qalguhzr) at Newspeak House
@@ -54,7 +55,7 @@ Public AI is a public, collaborative effort.
 - October 17, 2023: [Public & Civic AI Social #1](https://lu.ma/public-civic-ai-social) at Newspeak House
 - September 21, 2023: [Talk at AI: Ethical Paths Forward](https://archive.org/details/dweb-meetup-september-2023-ai-ethical-paths-forward) hosted by the Internet Archive
 - September 14, 2023: [Public AI Seminar](https://www.eventbrite.com/e/public-ai-seminar-tickets-716665073527) at NYU's Engelberg Center on Innovation Law & Policy
-- July 3 - July 10, 2023: [AI Palace 2023](https://www.aipalace.org/) at Bueckeburg Palace
+- July 3-10, 2023: [AI Palace 2023](https://www.aipalace.org/) at Bueckeburg Palace
 
 To be scheduled: technical meeting at MIT in 2024, governmental meeting at Library of Congress in 2024.
 
