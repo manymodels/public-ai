@@ -57,11 +57,9 @@ Public AI is a public, collaborative effort.
 - September 14, 2023: [Public AI Seminar](https://www.eventbrite.com/e/public-ai-seminar-tickets-716665073527) at NYU's Engelberg Center on Innovation Law & Policy
 - July 3-10, 2023: [AI Palace 2023](https://www.aipalace.org/) at Bueckeburg Palace
 
-To be scheduled: technical meeting at MIT in 2024, governmental meeting at Library of Congress in 2024.
-
 ## Acknowledgements
 
-A [wide range of people](https://docs.google.com/document/d/1ykjsXpTRZu4Obu9miJlkR9vIqWSLey5m0G4Utlm6HBg/edit#heading=h.v36dq6wln0nk) have contributed ideas and time to the coalition to promote and build public AI. We gratefully acknowledge operational support by [Metagov](https://metagov.org), [Aspen Digital](https://www.aspendigital.org/), [Open Future](https://openfuture.eu/), [Public Knowledge](https://publicknowledge.org), [Code for Science and Society](https://www.codeforsociety.org/), and [Chatham House](https://www.chathamhouse.org/).
+A [wide range of people](https://docs.google.com/document/d/1ykjsXpTRZu4Obu9miJlkR9vIqWSLey5m0G4Utlm6HBg/edit#heading=h.v36dq6wln0nk) have contributed ideas and time to the movement for public AI. We gratefully acknowledge operational support by [Metagov](https://metagov.org), [Aspen Digital](https://www.aspendigital.org/), [Open Future](https://openfuture.eu/), [Public Knowledge](https://publicknowledge.org), [Code for Science and Society](https://www.codeforsociety.org/), and [Chatham House](https://www.chathamhouse.org/).
 
 ## License
 The work in this repository is licensed under the [Creative Commons Attribution-ShareAlike 4.0 International license](https://creativecommons.org/licenses/by-sa/4.0/).
