@@ -3,11 +3,22 @@
 A research seminar to study public AI and other forms of public interest AI.
 
 ## Season 2
-Season 2 will run through August and September, starting on August 13, 2024 and concluding on October 8. The final schedule will be posted in early August.
+Season 2 will run through August and September, starting on August 13, 2024 and concluding on October 8.
 
-For the fall of 2024, we will focus especially on connecting and relating a cluster of political narratives around public AI, including responsible/safe AI, public compute, sovereign/national AI, democratic AI, open source AI, and AI for science.
+- (Optional) August 6: Introductions & goals of the seminar
+- August 13: Towards a network of publicly-funded AI labs, with Yoshua Bengio (MILA)
+- August 20: Public compute, with Nicole DeCario (Allen Institute) and Katie Antypas (National Science Foundation)
+- August 27: SEA-Lion, with Leslie Teo (AI Singapore)
+- September 3: AI and the labor market, with Julia Lane (NYU) and Adam Leonard (Texas Workforce Commission)
+- September 10: The role of openness in AI, with Irene Solaiman (HuggingFace)
+- September 17: Democratic AI, with Divya Siddarth and Saffron Huang (Collective Intelligence Project)
+- September 24: AI Nationalisms, with Sarah Myers West and Amba Kak (AI Now), and GPT-SW3, with Magnus Sahlgren (AI Sweden)
+- October 1: Community power in AI, with Jeni Tennison (Connected by Data)
+- October 8: The AI Dilemma, with Aza Raskin (Center for Humane Technology)
 
-If you are interested in joining the seminar, please [apply here](https://forms.gle/1f8fkcCEjEoJF6L78) by July 25, 2024.
+We will focus especially on connecting and relating a cluster of political narratives around public AI, including responsible/safe AI, public compute, sovereign/national AI, democratic AI, open source AI, and AI for science.
+
+If you are interested in joining the seminar, please [apply here](https://forms.gle/1f8fkcCEjEoJF6L78) by July 31, 2024.
 
 ## Season 1
 - January 9: Public options for AI, with Bruce Schneier (Harvard) - [Video](https://archive.org/details/public-ai-schneier), [Summary](https://docs.google.com/document/d/1j0foQVDe0ELYJCrZxOM7ueSiXFVvWr84Hycl2ZdeWFE/edit)
