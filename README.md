@@ -23,28 +23,27 @@ The **Public AI Network** is a coalition working to bring about public AI. Our a
 - Ensure public capacity-building is part of the conversation about AI design, policy, and funding
 - Make it easier to build public AI by coordinating research efforts in the ML community
 - Support policymakers and technical teams seeking to implement public AI
+- Organize the movement for public AI
 
 ## Learn more
 
-- [White Paper (draft)](https://docs.google.com/document/d/1b8xYlNBCtUHCQHSsNwklR8ivqmNgCK0qeQ-LwjSEHMk/edit?usp=sharing)
-- [Main Collaborative Working Document](https://docs.google.com/document/d/1ykjsXpTRZu4Obu9miJlkR9vIqWSLey5m0G4Utlm6HBg/edit), currently the best general overview
-- [Policy Brief](https://docs.google.com/document/d/e/2PACX-1vTscz9Q0NicGogTcs2CpCKOFX-_GYvwKFRgp8G51DeZd-03Z17frbA1tCeybv2BE5szKG1k1VOriDX6/pub), intended for policymakers
-- [Seminar Notes & Recordings](https://publicai.network/seminar.html)
-- [Workshop Paper @ NeurIPS 2023](https://arxiv.org/abs/2311.11350) + [poster](https://docs.google.com/presentation/d/e/2PACX-1vTTPlkbPBeLAjzfQzx72DsS4VwBFY3YLYvX_cCLNw83FWs0zoLoaDSYjgFbdgi8zQ/pub?start=false&loop=false&delayms=3000), intended for ML researchers
-- Policy Paper (forthcoming)
+- [White Paper](https://bit.ly/publicAIpaper), currently the best overview
+- [Main Collaborative Working Document](https://docs.google.com/document/d/1ykjsXpTRZu4Obu9miJlkR9vIqWSLey5m0G4Utlm6HBg/edit), effectively our internal wiki+discussion page
+- [Seminar Notes & Recordings](https://publicai.network/seminar.html
+- [Workshop Paper @ NeurIPS 2023](https://arxiv.org/abs/2311.11350) + [poster](https://docs.google.com/presentation/d/e/2PACX-1vTTPlkbPBeLAjzfQzx72DsS4VwBFY3YLYvX_cCLNw83FWs0zoLoaDSYjgFbdgi8zQ/pub?start=false&loop=false&delayms=3000), intended for the ML community
 
 ## Getting involved
 
 Public AI is a public, collaborative effort.
 
 - The [main project document](https://docs.google.com/document/d/1ykjsXpTRZu4Obu9miJlkR9vIqWSLey5m0G4Utlm6HBg/edit) is publicly-editable. Add a suggestion!
-- [We're recruiting](https://docs.google.com/document/d/1jtfzDaQHqHaF8gypFmqo8JZwQvgKFdYHFG2rjxLst0k/edit)!
-- To edit this site (e.g. to add an event or document), go to [https://github.com/manymodels/public-ai](https://github.com/manymodels/public-ai) and edit the README.md file.
 - For questions about public AI or to get involved, sign up for [the newsletter](https://publicai.substack.com/), join the [Google Group](https://groups.google.com/g/public-ai), or [contact us](mailto:hello@publicai.network).
+- [We're recruiting](https://docs.google.com/document/d/1jtfzDaQHqHaF8gypFmqo8JZwQvgKFdYHFG2rjxLst0k/edit)!
+- To edit this site (e.g. to add an event or document), go to [our GitHub](https://github.com/manymodels/public-ai](https://github.com/manymodels/public-ai).
 
 ## Events
 
-- (forthcoming) August 13-14, 2024: [Building a More Public AI Ecosystem](https://publicai.us) at the Library of Congress.
+- (forthcoming) August 13-14, 2024: [Building a More Public AI Ecosystem](https://publicai.us) at the Library of Congress
 - July 24, 2024: [Public AI Social #4 (+ Fishing Expedition)](https://lu.ma/oxdb3ryc) at ICML 2024
 - July 15-21, 2024: [AI Palace 2024](https://www.aipalace.org/) at Bueckeburg Palace
 - March 13, 2024: [Public Visions for AI Workshop](https://lu.ma/mqop6d2c) at Newspeak House
