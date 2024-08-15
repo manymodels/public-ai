@@ -6,7 +6,7 @@ A research seminar to study public AI and other forms of public interest AI.
 Season 2 will run through August and September, starting on August 13, 2024 and concluding on October 8.
 
 - (Optional) August 6: Introductions & goals of the seminar
-- August 13: Towards a network of publicly-funded AI labs, with Yoshua Bengio (MILA)
+- August 13: Towards a network of publicly-funded AI labs, with Yoshua Bengio (MILA) - [Video](https://archive.org/details/public-ai-bengio), Summary
 - August 20: Public compute, with Nicole DeCario (Allen Institute) and Katie Antypas (National Science Foundation)
 - August 27: SEA-LION, with Leslie Teo (AI Singapore)
 - September 3: AI and the labor market, with Julia Lane (NYU) and Adam Leonard (Texas Workforce Commission)
