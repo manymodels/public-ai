@@ -1,3 +1,4 @@
+markdown: kramdown
 theme: minima
 title: Public AI Network
 description: A coalition to build public AI
