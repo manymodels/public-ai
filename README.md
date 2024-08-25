@@ -43,7 +43,8 @@ Public AI is a public, collaborative effort.
 
 ## Events
 
-- (forthcoming) August 13-14, 2024: [Building a More Public AI Ecosystem](https://publicai.us){:target="_blank" rel="noopener"} at the Library of Congress
+- Forthcoming events TBA: Brussels and San Francisco.
+- August 13-14, 2024: [Building a More Public AI Ecosystem](https://publicai.us){:target="_blank" rel="noopener"} at the Library of Congress
 - July 24, 2024: [Public AI Social #4 (+ Fishing Expedition)](https://lu.ma/oxdb3ryc){:target="_blank" rel="noopener"} at ICML 2024
 - July 15-21, 2024: [AI Palace 2024](https://www.aipalace.org/){:target="_blank" rel="noopener"} at Bueckeburg Palace
 - March 13, 2024: [Public Visions for AI Workshop](https://lu.ma/mqop6d2c){:target="_blank" rel="noopener"} at Newspeak House
