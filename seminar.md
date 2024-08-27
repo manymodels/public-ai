@@ -8,7 +8,7 @@ Season 2 will run through August and September, starting on August 13, 2024 and 
 - (Optional) August 6: Introductions & goals of the seminar
 - August 13: Towards a network of publicly-funded AI labs, with Yoshua Bengio (MILA) - [Video](https://archive.org/details/public-ai-bengio), [Summary](https://docs.google.com/document/d/1na9xHK95XLW9TaUOx5DF_bpTu9mgTQYSAT7bWzWAMHM/edit)
 - August 20: Public compute, with Nicole DeCario (Allen Institute) and Katie Antypas (National Science Foundation) - [Video](https://archive.org/details/public-ai-decario-antypas), [Summary](https://docs.google.com/document/d/1Dr3UlH9Orb7GD0wYga94xNIVKOrEkjH2P_A1qqvBWZ4/edit?usp=sharing)
-- August 27: SEA-LION, with Leslie Teo (AI Singapore)
+- August 27: SEA-LION, with Leslie Teo (AI Singapore) - [Video](https://archive.org/details/public-ai-teo), [Summary](https://docs.google.com/document/d/18TPtkUfRmhZbpvuQPgrmr_kCiK9R_mBhHa6aDKYekMI/edit)
 - September 3: AI and the labor market, with Julia Lane (NYU) and Adam Leonard (Texas Workforce Commission)
 - September 10: The role of openness in AI, with Irene Solaiman (HuggingFace)
 - September 17: Democratic AI, with Divya Siddarth and Saffron Huang (Collective Intelligence Project)
