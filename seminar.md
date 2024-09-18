@@ -11,7 +11,7 @@ Season 2 will run through August and September, starting on August 13, 2024 and 
 - August 27: SEA-LION, with Leslie Teo (AI Singapore) - [Video](https://archive.org/details/public-ai-teo), [Summary](https://docs.google.com/document/d/18TPtkUfRmhZbpvuQPgrmr_kCiK9R_mBhHa6aDKYekMI/edit)
 - September 3: AI and the labor market, with Julia Lane (NYU) and Adam Leonard (Texas Workforce Commission) - [Video](https://archive.org/details/public-ai-lane-leonard), [Summary](https://docs.google.com/document/d/1pD3Ytmjgd7eTvAqfhLsm9IXkzdg60yA0uqHGSsdSr5I/edit)
 - September 10: The role of openness in AI, with Irene Solaiman (HuggingFace) - [Video](https://archive.org/details/public-ai-solaiman), [Summary](https://docs.google.com/document/d/1qV-1StRDlSFpVPXtusmXAxNIgGtR6CTpno9dUe8tiZY/edit)
-- September 17: Democratic AI, with Divya Siddarth and Saffron Huang (Collective Intelligence Project)
+- September 17: Democratic AI, with Divya Siddarth (Collective Intelligence Project) - [Video](), [Summary](https://docs.google.com/document/d/1z0OOK7lwcwXBU59hqwFMR6_Plycdri52n01E89zhNm4/edit)
 - September 24: AI Nationalisms, with Sarah Myers West and Amba Kak (AI Now), and GPT-SW3, with Magnus Sahlgren (AI Sweden)
 - October 1: Community power in AI, with Jeni Tennison (Connected by Data)
 - October 8: The AI Dilemma, with Aza Raskin (Center for Humane Technology)
