@@ -3,7 +3,7 @@
 A research seminar to study public AI and other forms of public interest AI.
 
 ## Season 2
-Season 2 will run through August and September, starting on August 13, 2024 and concluding on October 8.
+Season 2 will start on August 13, 2024 and conclud on October 15, 2024.
 
 - (Optional) August 6: Introductions & goals of the seminar
 - August 13: Towards a network of publicly-funded AI labs, with Yoshua Bengio (MILA) - [Video](https://archive.org/details/public-ai-bengio), [Summary](https://docs.google.com/document/d/1na9xHK95XLW9TaUOx5DF_bpTu9mgTQYSAT7bWzWAMHM/edit)
