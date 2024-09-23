@@ -7,7 +7,7 @@
 - Public AI is **accountable**: ensuring AI reflects society's values.
 - Public AI is being designed and built **right now** - all around the world.
 
-[Learn more about our definition](https://docs.google.com/document/d/1ykjsXpTRZu4Obu9miJlkR9vIqWSLey5m0G4Utlm6HBg/edit){:target="_blank" rel="noopener"}
+[Learn more about our definition](https://bit.ly/publicAIpaper){:target="_blank" rel="noopener"}
 
 ## Why do we need public AI?
 
