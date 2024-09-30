@@ -2,13 +2,10 @@
 
 ## What is public AI?
 
-Public AI systems work to advance the common good, powered by three core features:
-
-1. **Public Access**: ensuring AI delivers essential benefits to all.
-2. **Publicly Accountability**: ensuring AI reflects society's values.
-3. **Sustainability**: creating public goods that last.
-   
-Public AI being designed and built **right now** - all around the world.
+- Public AI is **accessible**: ensuring AI delivers benefits to all.
+- Public AI is **accountable**: ensuring AI reflects society's values.
+- Public AI is **sustainably public**: ensuring AI will remain a public good.
+- Public AI is being designed and built **right now** - all around the world.
 
 [Learn more about our definition](https://bit.ly/publicAIpaper){:target="_blank" rel="noopener"}
 
