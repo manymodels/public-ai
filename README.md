@@ -1,4 +1,4 @@
-> AI as public infrastructure
+> Public AI: powerful new infrastructures for the common good.
 
 ## What is public AI?
 
