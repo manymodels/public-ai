@@ -25,9 +25,9 @@
 - AI systems are growing in power and should reflect society's values, not the values of shareholders.
 - Private companies have a head start - without investment in public capacity now, the gap will grow.
 
-## Who we are
+[Learn more about the policy case here](https://bit.ly/publicAIpaper){:target="_blank" rel="noopener" class="button"}
 
-> Public AI Network is the home of Public AI builders, policymakers, and and advocates worldwide.
+## Who we are
 
 The **Public AI Network** is a coalition working to bring about public AI. Our aims are to:
 
