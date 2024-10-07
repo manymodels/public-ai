@@ -10,9 +10,10 @@ body {
 
 .site-title{ 
     font-size: 0px;
-    content: url("/assets/logo.png");
+    background: url("/assets/logo.png");
+    background-size: 100%;
     display: block;
-    width: 200px;
+    width: 250px;
     height: 40px;
     position: relative;
     top: 10px;
