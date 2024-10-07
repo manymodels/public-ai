@@ -25,8 +25,9 @@ a.button {
     padding: 7px;
 }
 
-a.button ::after{
+a.button::after{
     content: '→';
+    position: relative;
 }
 
 h2 {
