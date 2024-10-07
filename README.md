@@ -1,5 +1,7 @@
 > Public AI: powerful new infrastructures for the common good.
 
+[![White Paper Available Now]('assets/whitepaper.png')](https://bit.ly/publicAIpaper){:target="_blank" rel="noopener"}
+
 ## What is public AI?
 
 - Public AI is **accessible**: ensuring AI delivers benefits to all.
