@@ -8,7 +8,7 @@
 - Public AI is **sustainably public**: ensuring AI will remain a public good.
 - Public AI is being designed and built **right now** - all around the world.
 
-[Learn more about our definition](https://bit.ly/publicAIpaper){:target="_blank" rel="noopener"}
+[Learn more about our definition](https://bit.ly/publicAIpaper){:target="_blank" rel="noopener" class="button"}
 
 ## Why do we need public AI?
 
