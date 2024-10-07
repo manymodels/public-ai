@@ -19,6 +19,16 @@ body {
     top: 10px;
 }
 
+a.button {
+    background: #EF233C;
+    color: white;
+    padding: 7px;
+}
+
+a.button ::after{
+    content: '→';
+}
+
 h2 {
     font-weight: bold;
     letter-spacing: -0.5px;
