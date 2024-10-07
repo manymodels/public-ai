@@ -1,9 +1,9 @@
 
 [![White Paper Available Now](assets/whitepaper.png)](https://bit.ly/publicAIpaper){:target="_blank" rel="noopener"}
 
-##
 
-## The Public AI NeTwork (PAINT) connects together Public AI builders, policymakers, and advocates worldwide.
+
+## PAINT is the home for Public AI advocates, worldwide.
 
 - We host a Slack community which connects together experts from leading Public AI projects, thinktanks, and civil society groups.
 - We host a [seminar series](https://publicai.network/seminar) that shares insights from leaders in the field
