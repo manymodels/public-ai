@@ -1,4 +1,3 @@
-> Public AI: powerful new infrastructures for the common good.
 
 [![White Paper Available Now](assets/whitepaper.png)](https://bit.ly/publicAIpaper){:target="_blank" rel="noopener"}
 
@@ -19,6 +18,8 @@
 - Private companies have a head start - without investment in public capacity now, the gap will grow.
 
 ## Who we are
+
+> Public AI Network is the home of Public AI builders, policymakers, and and advocates worldwide.
 
 The **Public AI Network** is a coalition working to bring about public AI. Our aims are to:
 
