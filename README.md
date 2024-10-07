@@ -1,14 +1,6 @@
 
 [![White Paper Available Now](assets/whitepaper.png)](https://bit.ly/publicAIpaper){:target="_blank" rel="noopener"}
 
-
-
-## PAINT is the home for Public AI advocates, worldwide.
-
-- We host a Slack community which connects together experts from leading Public AI projects, thinktanks, and civil society groups.
-- We host a [seminar series](https://publicai.network/seminar) that shares insights from leaders in the field such as [Yoshua Bengio](https://archive.org/details/public-ai-bengio), [Diane Coyle](https://archive.org/details/public-ai-coyle), and [Larry Lessig](https://archive.org/details/public-ai-lessig)
-- We maintain a [shared definition](https://bit.ly/publicAIpaper){:target="_blank" rel="noopener"} of Public AI to coordinate our work
-
 ## What is public AI?
 
 - Public AI is **publicly accessible**: ensuring AI delivers benefits to all.
@@ -35,6 +27,11 @@ The **Public AI Network** is a coalition working to bring about public AI. Our a
 - Make it easier to build public AI by coordinating research efforts in the ML community
 - Support policymakers and technical teams seeking to implement public AI
 - Organize the movement for public AI
+
+We host a Slack community which connects together experts from leading public AI projects, thinktanks, and civil society groups as well as a seminar series.
+
+- We host a [seminar series](https://publicai.network/seminar) that shares insights from leaders in the field such as [Yoshua Bengio](https://archive.org/details/public-ai-bengio), [Diane Coyle](https://archive.org/details/public-ai-coyle), and [Larry Lessig](https://archive.org/details/public-ai-lessig)
+- We maintain a [shared definition](https://bit.ly/publicAIpaper){:target="_blank" rel="noopener"} of public AI to coordinate our work
 
 ## Learn more
 
