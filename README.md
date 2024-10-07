@@ -3,9 +3,9 @@
 
 ## What is public AI?
 
-- Public AI is **accessible**: ensuring AI delivers benefits to all.
-- Public AI is **accountable**: ensuring AI reflects society's values.
-- Public AI is **sustainably public**: ensuring AI will remain a public good.
+- Public AI is **publicly accessible**: ensuring AI delivers benefits to all.
+- Public AI is **publicly accountable**: ensuring AI reflects society's values.
+- Public AI creates **permanent public goods**: ensuring AI provides a reliable foundation.
 - Public AI is being designed and built **right now** - all around the world.
 
 [Learn more about our definition](https://bit.ly/publicAIpaper){:target="_blank" rel="noopener" class="button"}
