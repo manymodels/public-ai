@@ -1,6 +1,6 @@
 > Public AI: powerful new infrastructures for the common good.
 
-[![White Paper Available Now]('assets/whitepaper.png')](https://bit.ly/publicAIpaper){:target="_blank" rel="noopener"}
+[![White Paper Available Now](assets/whitepaper.png)](https://bit.ly/publicAIpaper){:target="_blank" rel="noopener"}
 
 ## What is public AI?
 
