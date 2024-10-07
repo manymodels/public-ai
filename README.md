@@ -5,7 +5,7 @@
 
 - We host a Slack community which connects together experts from leading Public AI projects, thinktanks, and civil society groups.
 - We host a [seminar series](https://publicai.network/seminar) that shares insights from leaders in the field
-- We maintain a [shared definition](https://bit.ly/publicAIpaper){rel="noopener" class="button"} of Public AI to coordinate our work
+- We maintain a [shared definition](https://bit.ly/publicAIpaper){:target="_blank" rel="noopener"} of Public AI to coordinate our work
 
 ## What is public AI?
 
