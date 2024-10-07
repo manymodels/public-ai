@@ -22,12 +22,17 @@ body {
 a.button {
     background: #EF233C;
     color: white;
-    padding: 7px;
+    padding: 10px 14px;
+}
+a.button:hover {
+    text-decoration: none;
+    color: #EEDFDF
 }
 
 a.button::after{
     content: '→';
     position: relative;
+    margin-left: 5px;
 }
 
 h2 {
