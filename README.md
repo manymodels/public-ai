@@ -6,7 +6,7 @@
 ## PAINT is the home for Public AI advocates, worldwide.
 
 - We host a Slack community which connects together experts from leading Public AI projects, thinktanks, and civil society groups.
-- We host a [seminar series](https://publicai.network/seminar) that shares insights from leaders in the field
+- We host a [seminar series](https://publicai.network/seminar) that shares insights from leaders in the field such as [Yoshua Bengio](https://archive.org/details/public-ai-bengio), [Diane Coyle](https://archive.org/details/public-ai-coyle), and [Larry Lessig](https://archive.org/details/public-ai-lessig)
 - We maintain a [shared definition](https://bit.ly/publicAIpaper){:target="_blank" rel="noopener"} of Public AI to coordinate our work
 
 ## What is public AI?
