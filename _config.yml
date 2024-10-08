@@ -35,6 +35,7 @@ minima:
 #
 header_pages:
 - seminar.md
+- examples.md
 
 # Set to `true` to show excerpts on the homepage.
 #
