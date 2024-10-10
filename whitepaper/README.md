@@ -5,7 +5,7 @@ This whitepaper sets out a vision for a different path for AI. Societies don’t
 
 Powerful AI systems are the culmination of milennia of collective effort. Their algorithms are derived from decades of public research. Their models are trained on mountains of interviews, articles, and books. Yet the concentration of AI development within a handful of unaccountable firms threatens to write the public out of our story.
 
-That’s why a new collective effort is needed. To ensure AI serves the common good we must build the next generation of shared infrastructure: Public AI.
+That’s why a new collective effort is needed. To ensure AI serves the common good we must build the next generation of public infrastructure: Public AI.
 Building Public AI together offers a way to invest in a solid foundation for the next century of progress: ensuring that trustworthy AI systems protect our shared values, that flourishing marketplaces spark innovation on every problem, and that everyone has the tools they need to tackle the greatest problems facing society.
 
 Three features of Public AI can put the public in the driver’s seat and accelerate us towards the common good:
