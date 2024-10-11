@@ -1,5 +1,5 @@
 
-[![White Paper Available Now](assets/whitepaper.png)](https://bit.ly/publicAIpaper){:target="_blank" rel="noopener"}
+[![White Paper Available Now](assets/whitepaper.png)](https://publicai.network/whitepaper){:target="_blank" rel="noopener"}
 
 ## What is public AI?
 
@@ -8,7 +8,7 @@
 - Public AI creates **permanent public goods**: ensuring AI provides a reliable foundation.
 - Public AI is being designed and built **right now** - all around the world.
 
-[Learn more about our definition](https://bit.ly/publicAIpaper){:target="_blank" rel="noopener" class="button"}
+[Learn more about our definition](https://publicai.network/whitepaper){:target="_blank" rel="noopener" class="button"}
 
 ## Why do we need public AI?
 
@@ -17,7 +17,7 @@
 - AI systems are growing in power and should reflect society's values, not the values of shareholders.
 - Private companies have a head start - without investment in public capacity now, the gap will grow.
 
-[Learn more about the policy case here](https://bit.ly/publicAIpaper){:target="_blank" rel="noopener" class="button"}
+[Learn more about the policy case here](https://publicai.network/whitepaper){:target="_blank" rel="noopener" class="button"}
 
 ## Who we are
 
@@ -31,7 +31,7 @@ The **Public AI Network** is a coalition working to bring about public AI. Our a
 We host a Slack community which connects together experts from leading public AI projects, thinktanks, and civil society groups as well as a seminar series.
 
 - We host a [seminar series](https://publicai.network/seminar) that shares insights from leaders in the field such as [Yoshua Bengio](https://archive.org/details/public-ai-bengio), [Diane Coyle](https://archive.org/details/public-ai-coyle), and [Larry Lessig](https://archive.org/details/public-ai-lessig)
-- We maintain a [shared definition](https://bit.ly/publicAIpaper){:target="_blank" rel="noopener"} of public AI to coordinate our work
+- We maintain a [shared definition](https://publicai.network/whitepaper){:target="_blank" rel="noopener"} of public AI to coordinate our work
 
 ## Learn more
 
