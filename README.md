@@ -52,6 +52,8 @@ Public AI is a public, collaborative effort.
 ## Events
 
 - Forthcoming events TBA: Brussels and San Francisco.
+- October 17-20, 2024: [mAIfuture](https://maifuture.pl) at the Cambridge Innovation Center, Warsaw
+- October 2, 2024: [Designing Public AI](https://economicsecurityproject.org/news/blueprint-to-build-public-ai/) at the Rockefeller Foundation, DC
 - August 13-14, 2024: [Building a More Public AI Ecosystem](https://publicai.us){:target="_blank" rel="noopener"} at the Library of Congress
 - July 24, 2024: [Public AI Social #4 (+ Fishing Expedition)](https://lu.ma/oxdb3ryc){:target="_blank" rel="noopener"} at ICML 2024
 - July 15-21, 2024: [AI Palace 2024](https://www.aipalace.org/){:target="_blank" rel="noopener"} at Bueckeburg Palace
