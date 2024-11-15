@@ -1,3 +1,7 @@
+---
+layout: page
+title: Public AI White Paper
+---
 
 [![White Paper Available Now](../assets/whitepaper.png)](https://zenodo.org/records/13914560){:target="_blank" rel="noopener"}
 
