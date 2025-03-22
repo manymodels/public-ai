@@ -3,7 +3,7 @@
 A research seminar to study public AI and other forms of public interest AI.
 
 ## Season 3
-Season 3 will start in March 2025. The majority of spots will be reserved for creatives interested in exploring public AI: writers, actors, signers, artists, photographers, documentarians, social media influencers, and other content creators. Confirmed speakers include Kim Stanley Robinson (author), Martin Tisne (AI Collaborative, emissary to the French AI Summit), Ted Chiang (author), and Nils Gilman (historian, COO of Berggruen). More information will be posted closer to the date.
+Season 3 will start on April 21, 2025. The majority of spots will be reserved for creatives interested in exploring public AI: writers, actors, signers, artists, photographers, documentarians, social media influencers, and other content creators. Confirmed speakers include Kim Stanley Robinson (author), Martin Tisne (AI Collaborative, emissary to the French AI Summit), Ted Chiang (author), and Nils Gilman (historian, COO of Berggruen). More information will be posted closer to the date.
 
 If you are interested in joining the seminar, please [apply here](https://forms.gle/1f8fkcCEjEoJF6L78) by April 15, 2025.
 
