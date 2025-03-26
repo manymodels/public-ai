@@ -84,6 +84,7 @@ This is a public, collaborative effort.  There are a range of projects at differ
  
 ## Events
 - April 16, 2025:  Workshop @Berkman-Klein Center, Cambridge MA
+- March 26, 2025:  Cosmos Demo Day [slides](https://docs.google.com/presentation/d/1stAGX3S7OV78N8IShyDuHmfBvUzYOM9I0UQcxjMuMB8/) (a sponsor of this work!)
 - March 15, 2025:  Talk + office hours @Funding the Commons, SF
 - March 9, 2025:   Wikipedia + AI @SXSW, Austin
 - February 12-15, 2025: [AI Action II](https://docs.google.com/document/d/1IyP2jGob6Zxp1V7jjN1Ax--r45FHGYBgDhK31eoMNVU/edit?tab=t.0){:target="_blank" rel="noopener"} on the future of libraries, at Chateau du Fey in Joigny, France
