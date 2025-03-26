@@ -4,8 +4,6 @@ layout: page
 description: An atlas of knowledge and catalog of sources needed to ground public interest AI.
 ---
 
-[![White Paper Available Now](assets/whitepaper.png)](https://zenodo.org/records/13914560/files/Public%20AI%20White%20Paper-15.pdf?download=1){:target="_blank" rel="noopener"}
-
 ## OMN: Manifesto for an open civilization
 
 Collective knowledge defines our civilization. 
