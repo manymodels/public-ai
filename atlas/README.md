@@ -14,7 +14,7 @@ But they are also inherently vulnerable, and throughout history are regularly at
 The rise of strong AI greatly increases the need for organizing public knowledge of the world,  
 while at the same time amplifying incentives to manipulate it, and providing new tools to alter sources at scale. 
 
-We need a planetary library that preserves the tenets of public librarianship: preservation, access, privacy.  
+We need a planetary library that preserves the tenets of public librarianship: preservation, access, privacy.  A good library is:
 
 - **publicly accessible**, ensuring all have access to some form of the societal record
 - **publicly curatable**, open to contribution, organization, and annotation by a global community
