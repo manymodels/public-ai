@@ -78,7 +78,7 @@ This is a public, collaborative effort.  There are a range of projects at differ
 * Reference works: [Building a bigger wiki](https://github.com/wikius/omnipedia).[5] – an AI project to build tools for automating curation and review at scale, to keep pace with the improvements in producing summaries and sourced synthesis about a topic.
 * Concordance Catalog: OpenCat[5] – Implementing a global open-data alternative to WorldCat that all GLAM institutions can contribute their metadata to, if they want it to be freely accessible to all. Working so far with a network of librarians in the US and Europe.
 * [Concordance](https://docs.google.com/document/d/1DCJdStQJISEzSNu9H2vnDLaqx_5_NWjWpPnJvUsvn88/) Library:[3] Amplifying the work of the Internet Archive across more institutions and jurisdictions, to collect and preserve copies of everything in the global catalog.
-* Concordance Crawl: FineWeb2 does an excellent job of adding curation, clustering, and linguistic diversity to CommonCrawl; this would combine that work with the complementary work of the Wayback Machine (to gather more comprehensive snapshots of many sites) and Common Corpus (to identify the largest freely-licensed subset).
+* Concordance Crawl: [FineWeb2](https://github.com/huggingface/fineweb-2) does an excellent job of adding curation, clustering, and linguistic diversity to CommonCrawl; this would combine that work with the complementary work of the Wayback Machine (to gather more comprehensive snapshots of many sites) and Common Corpus (to identify the largest freely-licensed subset).
 * Fully open frontier models: Training the best possible model on sources grouped by how freely they are licensed. In progress by Pleias and a few others, needs support. 
 * .. _[(add yours!)](https://docs.google.com/forms/d/1_HKkfLimn_krqkNdMHgo1we7iXmfJDDlkHB_JHXX08s/edit)_
 
@@ -86,6 +86,7 @@ This is a public, collaborative effort.  There are a range of projects at differ
 ## Events
 - April 16, 2025:  Workshop @Berkman-Klein Center, Cambridge MA
 - March 26, 2025:  Cosmos Demo Day [slides](https://docs.google.com/presentation/d/1stAGX3S7OV78N8IShyDuHmfBvUzYOM9I0UQcxjMuMB8/) (sponsor of this work!)
+: A new role for libraries in the AI Age @Utah library directors meeting
 - March 15, 2025:  Talk + office hours @Funding the Commons, SF
 - March 9, 2025:   Wikipedia + AI @SXSW, Austin
 - February 12-15, 2025: [AI Action II](https://docs.google.com/document/d/1IyP2jGob6Zxp1V7jjN1Ax--r45FHGYBgDhK31eoMNVU/edit?tab=t.0){:target="_blank" rel="noopener"} on the future of libraries, at Chateau du Fey in Joigny, France
