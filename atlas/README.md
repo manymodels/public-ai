@@ -30,12 +30,12 @@ and overcome obstacles placed in their way by those who do not want such institu
 
 ## Omnipedia: Compiling a Atlas of knowledge
 
-A proper atlas should include a map of past, present, and future works; a catalog of sources; and a knowledge graph of entities, claims, and ideas in those works.
+A proper atlas should include a **map** of past, present, and future works; a **catalog** of sources; and a knowledge **graph** of entities, claims, and ideas in those works.
 
-1. Libraries today focus on holding classical works and artefacts, from past and present: mainly books, articles, and other monographs. 
-But most knowledge today is in webpages online, held by few libraries (save for the Internet Archive, which receives almost no public support).  
-Fully capturing the present requires engaging in work like Common Crawl, search indexing, and the Wayback Machine.
-And most knowledge of tomorrow will pass through AI systems, produced and varied at much higher rates, greatly changing the current mode of single-author works.  
+1. Libraries today focus on holding classical works and artefacts, from past and present: mainly books, articles, and other monographs. But they have a hard time visualizing what may be missing; the [most comprehensive map of all ISBNs](http://phiresky.github.io/blog/2025/visualizing-all-books-in-isbn-space/) and where they are held was produced by an independent designer in response to a bounty held by a pirate library.
+Moreover most knowledge today is in webpages online, held by few libraries (save for the Internet Archive, which receives almost no public support).  
+Fully capturing the present requires engaging in work like Common Crawl, search indexing, and the Wayback Machine, and visualizing the gaps there as well.
+Finally, most knowledge of tomorrow will pass through AI systems, produced and varied at much higher rates, greatly changing the current mode of single-author works.  
 Capturing the provenance of future works starts with their early drafts and iterations.
 
 2. To know what knowledge need to be preserved, we need a catalog of published works.  
