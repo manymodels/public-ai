@@ -1,5 +1,5 @@
 
-[![White Paper Available Now](assets/whitepaper.png)](https://zenodo.org/records/13914560){:target="_blank" rel="noopener"}
+[![White Paper Available Now](assets/whitepaper.png)](https://zenodo.org/records/13914560/files/Public%20AI%20White%20Paper-15.pdf?download=1){:target="_blank" rel="noopener"}
 
 ## What is public AI?
 
