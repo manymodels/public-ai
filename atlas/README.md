@@ -105,11 +105,13 @@ This is a public, collaborative effort.  There are a range of projects at differ
 * Library of Congress and British Library (the largest attempts to do this for physical works, for their countries)
 * Digital Public Goods [registry](https://www.digitalpublicgoods.net/registry) [tiny but valiant, UN support]
 * https://docs.google.com/document/d/1DCJdStQJISEzSNu9H2vnDLaqx_5_NWjWpPnJvUsvn88/edit?tab=t.0#heading=h.de7djlc2s6ho
-* [DataHoarders](https://www.reddit.com/r/DataHoarder/comments/l4rj44/how_to_back_up_download_the_library_of_congress/) and cottage archivists
+* [Data](https://www.reddit.com/r/DataHoarder/comments/h02jl4/lets_say_you_wanted_to_back_up_the_internet/) [Hoarders](https://www.reddit.com/r/DataHoarder/comments/l4rj44/how_to_back_up_download_the_library_of_congress/) and cottage archivists
 * Libraries as outlets for Public AI (proposal with US state libraries and LOC)
 * [Plurality](https://www.plurality.net/) (an example of massively multiplayer curation of a single volume)
 * Efforts by IA, 🤗 , and other libraries to [Let the Robots Read](https://docs.google.com/document/d/1k614XlIcdWxJ0gFyuC0ovlNI5XMd-54P6ATeRPo2ORw/)
-* 
+* The [Data Rescue Project](https://docs.google.com/document/d/15ZRxHqbhGDHCXo7Hqi_Vcy4Q50ZItLblIFaY3s7LBLw/) (global and national)
+* Chapter draft "_NERFED: The dismantling of America's libraries and global stewardship of information_" via BW
+* WP specific:  [ML modeling](https://meta.wikimedia.org/wiki/User:Isaac_(WMF)/ML_modeling_at_Wikimedia), [AI dataset recs](https://meta.wikimedia.org/wiki/User:Isaac_(WMF)/AI_Datasets) and [data gaps](https://meta.wikimedia.org/wiki/User:Isaac_(WMF)/Content_tagging/Data_gaps)
 
 ## License
 The work in this repository is licensed under the [Creative Commons Attribution-ShareAlike 4.0 International license](https://creativecommons.org/licenses/by-sa/4.0/){:target="_blank" rel="noopener"}.
