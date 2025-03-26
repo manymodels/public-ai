@@ -77,14 +77,15 @@ This is a public, collaborative effort.  There are a range of projects at differ
 * Backups: Implementing a visualization of the rarity of works in the library[7], and where they are held, based on existing catalog information.  Building on this excellent [visualization of all ISBNs](https://phiresky.github.io/blog/2025/visualizing-all-books-in-isbn-space/). 
 * Reference works: [Building a bigger wiki](https://github.com/wikius/omnipedia).[5] – an AI project to build tools for automating curation and review at scale, to keep pace with the improvements in producing summaries and sourced synthesis about a topic.
 * Concordance Catalog: OpenCat[5] – Implementing a global open-data alternative to WorldCat that all GLAM institutions can contribute their metadata to, if they want it to be freely accessible to all. Working so far with a network of librarians in the US and Europe.
-* Concordance Library:[3] Amplifying the work of the Internet Archive across more institutions and jurisdictions, to collect and preserve copies of everything in the global catalog.
+* [Concordance](https://docs.google.com/document/d/1DCJdStQJISEzSNu9H2vnDLaqx_5_NWjWpPnJvUsvn88/) Library:[3] Amplifying the work of the Internet Archive across more institutions and jurisdictions, to collect and preserve copies of everything in the global catalog.
 * Concordance Crawl: FineWeb2 does an excellent job of adding curation, clustering, and linguistic diversity to CommonCrawl; this would combine that work with the complementary work of the Wayback Machine (to gather more comprehensive snapshots of many sites) and Common Corpus (to identify the largest freely-licensed subset).
 * Fully open frontier models: Training the best possible model on sources grouped by how freely they are licensed. In progress by Pleias and a few others, needs support. 
 * .. _[(add yours!)](https://docs.google.com/forms/d/1_HKkfLimn_krqkNdMHgo1we7iXmfJDDlkHB_JHXX08s/edit)_
+
  
 ## Events
 - April 16, 2025:  Workshop @Berkman-Klein Center, Cambridge MA
-- March 26, 2025:  Cosmos Demo Day [slides](https://docs.google.com/presentation/d/1stAGX3S7OV78N8IShyDuHmfBvUzYOM9I0UQcxjMuMB8/) (a sponsor of this work!)
+- March 26, 2025:  Cosmos Demo Day [slides](https://docs.google.com/presentation/d/1stAGX3S7OV78N8IShyDuHmfBvUzYOM9I0UQcxjMuMB8/) (sponsor of this work!)
 - March 15, 2025:  Talk + office hours @Funding the Commons, SF
 - March 9, 2025:   Wikipedia + AI @SXSW, Austin
 - February 12-15, 2025: [AI Action II](https://docs.google.com/document/d/1IyP2jGob6Zxp1V7jjN1Ax--r45FHGYBgDhK31eoMNVU/edit?tab=t.0){:target="_blank" rel="noopener"} on the future of libraries, at Chateau du Fey in Joigny, France
@@ -96,12 +97,19 @@ This is a public, collaborative effort.  There are a range of projects at differ
 
 ### Related work
 * Internet Archive (the first truly global digital library)
-* Common Crawl (constant crawl)
-* Common Voice (language and accent preservation, Mozilla)
+** [INTERNETARCHIVE.BAK](https://wiki.archiveteam.org/index.php/INTERNETARCHIVE.BAK/nominations) (a crowdsourced effort to back up IA)
+* [Common Crawl](https://commoncrawl.org/web-graphs) (constant crawl)
+* [Common Voice](https://commonvoice.mozilla.org/en/languages) (voice model production in 130+ langs, Mozilla)
 * Common Corpus (by Pleias, training fully free models)
 * Current.ai (identifying gaps in the public AI stack)
 * Library of Congress and British Library (the largest attempts to do this for physical works, for their countries)
-* ..
+* Digital Public Goods [registry](https://www.digitalpublicgoods.net/registry) [tiny but valiant, UN support]
+* https://docs.google.com/document/d/1DCJdStQJISEzSNu9H2vnDLaqx_5_NWjWpPnJvUsvn88/edit?tab=t.0#heading=h.de7djlc2s6ho
+* [DataHoarders](https://www.reddit.com/r/DataHoarder/comments/l4rj44/how_to_back_up_download_the_library_of_congress/) and cottage archivists
+* Libraries as outlets for Public AI (proposal with US state libraries and LOC)
+* [Plurality](https://www.plurality.net/) (an example of massively multiplayer curation of a single volume)
+* Efforts by IA, 🤗 , and other libraries to [Let the Robots Read](https://docs.google.com/document/d/1k614XlIcdWxJ0gFyuC0ovlNI5XMd-54P6ATeRPo2ORw/)
+* 
 
 ## License
 The work in this repository is licensed under the [Creative Commons Attribution-ShareAlike 4.0 International license](https://creativecommons.org/licenses/by-sa/4.0/){:target="_blank" rel="noopener"}.
