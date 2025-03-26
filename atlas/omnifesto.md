@@ -1,9 +1,7 @@
 The planetary library requires a complete digital archive, multimodal models to access it, 
 and collaborative tools to maintain it & ensure its knowledge integrity. All are in primordial stages.
 To build it, we need an atlas of progress, gaps, & uses of this library – an OMN – that leaves no source unturned.
-
-An atlas will help map how we get to the result we need, from the current disorganized and commercially-intermediated state of public knowledge.  
-Starting with an outline & manifesto (OMN) that lays out its key elements and its centrality to human flourishing. 
+This will help map how we get to the shared tools we need to flourish, from the current disorganized, polarized, and commercially-intermediated state of public knowledge.  
 
 While the Public Library reigns preeminent in public respect, and embodies the benefits of civilization and educational 
 self-sufficiency, libraries have been under growing threat in recent decades. Repeated extension of copyright terms, 
@@ -30,12 +28,12 @@ It must be deployed in a robustly decent way, with each community able to provis
 global and local collections. Finally, it must be collaboratively maintainable, letting communities self-organize archives, 
 publications, and compute to advance the library.
 
-As critical as this is to a flourishing future, we are far from it today. We need a collaborative Atlas to visualize the gaps, 
-place them in context of the overall roadmap to such a collective milestone, and summarize the opportunity costs and 
-switching costs entailed.  OMN is the first entry in that Atlas, providing illustration and motivation for every reader, 
-curator, and planner to turn the page. 
+As critical as this is to our civilization, we are far from it today. We need to work together to map and visualize the gaps, 
+place them in context of the overall roadmap to a true digital library, and characterize the opportunity costs and 
+switching costs entailed.  Done with care, this will provide context and motivation for every reader, curator, and planner to turn the page. 
 
-We are working to capture an overview of current physical and digital archives, as seen through the lens of models 
-trying to train on the history of recorded thought, and an overview of current tools and protocols designed to support 
-decentralized curation, sharing, and storage at that scale. Outputs will be an outline and introduction to the Atlas, 
-and initial illustrations and datasets. 
+To amplify Eco: the cultivated person's first duty is to be always prepared to recreate the universal library.
+We must find ways to distribute the capture and backing up of our current physical and digital archives, as seen through the lens of both future readers and of knowledge models learning from the history of recorded thought; 
+To build new interfaces to the best current tools and protocols designed to support 
+decentralized curation, sharing, and storage at scale; 
+To draw out new visualizations of what we want, so we can learn how to make it from what we have.
