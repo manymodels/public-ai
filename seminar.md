@@ -1,4 +1,8 @@
-# Public AI Seminar
+---
+title: Public AI Seminar
+layout: page
+description: A research seminar to study public AI and other forms of public interest AI.
+---
 
 A research seminar to study public AI and other forms of public interest AI.
 
