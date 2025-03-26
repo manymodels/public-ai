@@ -80,7 +80,7 @@ This is a public, collaborative effort.  There are a range of projects at differ
 * Concordance Library:[3] Amplifying the work of the Internet Archive across more institutions and jurisdictions, to collect and preserve copies of everything in the global catalog.
 * Concordance Crawl: FineWeb2 does an excellent job of adding curation, clustering, and linguistic diversity to CommonCrawl; this would combine that work with the complementary work of the Wayback Machine (to gather more comprehensive snapshots of many sites) and Common Corpus (to identify the largest freely-licensed subset).
 * Fully open frontier models: Training the best possible model on sources grouped by how freely they are licensed. In progress by Pleias and a few others, needs support. 
-* ... _(add yours!)_
+* .. _[(add yours!)](https://docs.google.com/forms/d/1_HKkfLimn_krqkNdMHgo1we7iXmfJDDlkHB_JHXX08s/edit)_
  
 ## Events
 - April 16, 2025:  Workshop @Berkman-Klein Center, Cambridge MA
@@ -92,6 +92,15 @@ This is a public, collaborative effort.  There are a range of projects at differ
 - August 13-14, 2024: [Building a More Public AI Ecosystem](https://publicai.us){:target="_blank" rel="noopener"} at the Library of Congress
 
 ## Acknowledgements
+
+### Related work
+* Internet Archive (the first truly global digital library)
+* Common Crawl (constant crawl)
+* Common Voice (language and accent preservation, Mozilla)
+* Common Corpus (by Pleias, training fully free models)
+* Current.ai (identifying gaps in the public AI stack)
+* Library of Congress and British Library (the largest attempts to do this for physical works, for their countries)
+* ..
 
 ## License
 The work in this repository is licensed under the [Creative Commons Attribution-ShareAlike 4.0 International license](https://creativecommons.org/licenses/by-sa/4.0/){:target="_blank" rel="noopener"}.
