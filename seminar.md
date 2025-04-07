@@ -19,6 +19,8 @@ Season 3 will start on April 22, 2025. We will survey diverse positions on AI em
 - June 3: Past and future narratives for tech, with Gideon Lichfield (journalist), Nils Gilman (historian), and Marietje Schaake (politician)
 - ~June 10: The near possible future of AI, with Kim Stanley Robinson (author)
 
+Organizers: Joshua Tan (Metagov), Alek Tarkowski (Open Future), Victoria Ivanova (Serpentine Galleries), B Cavello (Aspen Digital)
+
 ## Season 2
 Season 2 will start on August 13, 2024 and conclude on October 15, 2024. We will focus especially on connecting and relating a cluster of political narratives around public AI, including responsible/safe AI, public compute, sovereign/national AI, democratic AI, open source AI, and AI for science. If you are interested in joining the seminar, please [apply here](https://forms.gle/1f8fkcCEjEoJF6L78) by July 31, 2024.
 
@@ -34,6 +36,8 @@ Season 2 will start on August 13, 2024 and conclude on October 15, 2024. We will
 - October 8: The AI Dilemma, with Aza Raskin (Center for Humane Technology) - [Video](https://www.youtube.com/watch?v=gmtHT2zt-4g&list=PL95oM4NmjfADBo-cZ4fYjw8Hd1rn0sILL&index=2), [Summary](https://docs.google.com/document/d/1ATwQxTheRL7QOFGSbVO2Di2TCdbEr-GlVKBj3ldAR6U/edit?tab=t.0)
 - October 15: AI Nationalisms, with Sarah Myers West and Amba Kak (AI Now) - Video, [Summary](https://docs.google.com/document/d/10o_fJVzRHsSxcSMJuyp4UmG9IlYMB-dO8EDs8Vqa6Uc/edit?tab=t.0)
 
+Organizers: Joshua Tan (Oxford, Metagov), Alex Krasodomski (Chatham House), B Cavello (Aspen Digital)
+
 ## Season 1
 - January 9: Public options for AI, with Bruce Schneier (Harvard) - [Video](https://archive.org/details/public-ai-schneier), [Summary](https://docs.google.com/document/d/1j0foQVDe0ELYJCrZxOM7ueSiXFVvWr84Hycl2ZdeWFE/edit)
 - January 16: Public policy for tech, with Diane Coyle (Cambridge) - [Video](https://archive.org/details/public-ai-coyle), [Summary](https://docs.google.com/document/d/1n3DcShalIqN0drYMJbbZBANNWbKznAtiT5n3jtsz0tM/edit)
@@ -47,12 +51,12 @@ Season 2 will start on August 13, 2024 and conclude on October 15, 2024. We will
 
 Over the course of the seminar, we will consider different models of public AI, lessons from both history and from AI, general theories of public investment and of regulation, as well as many different arguments for and against public AI. Four themes will guide our considerations: public benefit, public accountability, market failure, and political narratives.
 
+Organizers: Joshua Tan (Oxford, Metagov), SJ Klein (Berkman, Interlace), Nick Garcia (Public Knowledge)
+
 ## Details
-- Organizers: Joshua Tan (Oxford, Metagov), Alex Krasodomski (Chatham House), B Cavello (Aspen Digital)
 - Format: the seminar is invite-only. The first half of the seminar, reserved for invited talks, is recorded via Zoom and posted online. Notes from the entire seminar will be summarized without named attribution under the Chatham House rule.
 - Meeting times: every Tuesday from 11am - 1pm ET over Zoom.
 - Recordings and notes will be posted online at [https://publicai.network/seminar](https://publicai.network/seminar).
-- Previous organizers: SJ Klein (Berkman, Interlace), Nick Garcia (Public Knowledge).
 
 ## Goals
 The Public AI Seminar has two parallel objectives: 
