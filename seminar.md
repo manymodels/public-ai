@@ -9,7 +9,15 @@ A research seminar to study public AI and other forms of public interest AI.
 ## Season 3
 Season 3 will start on April 22, 2025. We will survey diverse positions on AI emerging from art, culture, and the creative industries. In particular, we will consider the relationship between AI and the creative industries through four lenses: political power, cultural power, technological power, and economic power. Several spots will be reserved for creatives interested in exploring public AI: writers, actors, signers, artists, photographers, documentarians, social media influencers, and other content creators. If you are interested in joining the seminar, please [apply here](https://forms.gle/1f8fkcCEjEoJF6L78) by April 15, 2025.
 
-Confirmed speakers include: Ted Chiang (author), Mat Dryhurst (artist, Spawning), Reema Selhi (DACS, British Copyright Council), EM Lewis-Jong (Mozilla), Martin Tisné (AI Collaborative, Current AI), David White (SAG-AFTRA), Angie Kim (Center for Cultural Innovation), Gideon Litchfield (journalist), Nils Gilman (historian, Berggruen), and Marietje Schaake (Stanford). Additional information will be posted soon.
+- (Optional) April 21: Introductions & goals of the seminar
+- April 22: Do Not Train, with Mat Dryhurst (artist), and AI and copyright, with Reema Selhi (DACS, British Copyright Council)
+- April 29: Generative AI is not useful for making art, with Ted Chiang (author)
+- May 6: Community data and the case of Common Voice, with EM Lewis-Jong (Mozilla)
+- May 13: A Vision for Public AI in California, with Teri Olle and Taylor Jo Isenberg (Economic Security Project)
+- May 20: Public interest AI, with Martin Tisné (AI Collaborative, Current AI)
+- May 27: AI & entertainment industry, with David White (3CG Ventures), and AI & the freelancer economy, with Angie Kim and Jessica Mele (CCI)
+- June 3: Past and future narratives for tech, with Gideon Lichfield (journalist), Nils Gilman (historian), and Marietje Schaake (politician)
+- ~June 10: The near possible future of AI, with Kim Stanley Robinson (author)
 
 ## Season 2
 Season 2 will start on August 13, 2024 and conclude on October 15, 2024. We will focus especially on connecting and relating a cluster of political narratives around public AI, including responsible/safe AI, public compute, sovereign/national AI, democratic AI, open source AI, and AI for science. If you are interested in joining the seminar, please [apply here](https://forms.gle/1f8fkcCEjEoJF6L78) by July 31, 2024.
