@@ -7,7 +7,7 @@ description: A research seminar to study public AI and other forms of public int
 A research seminar to study public AI and other forms of public interest AI.
 
 ## Season 3
-Season 3 will start on April 22, 2025. We will survey diverse positions on AI emerging from art, culture, and the creative industries. In particular, we will consider the relationship between AI and the creative industries through four lenses: political power, cultural power, technological power, and economic power. Several spots will be reserved for creatives interested in exploring public AI: writers, actors, signers, artists, photographers, documentarians, social media influencers, and other content creators. If you are interested in joining the seminar, please [apply here](https://forms.gle/1f8fkcCEjEoJF6L78) by April 15, 2025.
+Season 3 will start on April 22, 2025. We will survey diverse positions on AI emerging from art, culture, and the creative industries. In particular, we will consider the relationship between AI and the creative industries through four lenses: political power, cultural power, technological power, and economic power. Several spots will be reserved for creative professionals in any medium interested in exploring public AI. If you are interested in joining the seminar, please [apply here](https://forms.gle/1f8fkcCEjEoJF6L78) by April 15, 2025.
 
 - (Optional) April 21: Introductions & goals of the seminar
 - April 22: Do Not Train, with Mat Dryhurst (artist), and AI and copyright, with Reema Selhi (DACS, British Copyright Council)
