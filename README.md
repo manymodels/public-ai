@@ -51,6 +51,8 @@ Public AI is a public, collaborative effort.
 ## Events
 
 - Forthcoming events TBA: Brussels and San Francisco.
+- April 26, 2025: [Public AI Dinner & Salon](https://lu.ma/6zeopix2) at ICLR 2025 in Singapore
+- April 24-25, 2025: Commercializing Public AI at the Barcelona Supercomputing Center in Barcelona, Spain
 - February 12-15, 2025: [AI Action II](https://docs.google.com/document/d/1IyP2jGob6Zxp1V7jjN1Ax--r45FHGYBgDhK31eoMNVU/edit?tab=t.0){:target="_blank" rel="noopener"} at Chateau du Fey in Joigny, France
 - February 11, 2025: [Public AI Congress](https://lu.ma/5h2x0n33){:target="_blank" rel="noopener"} and Public AI House at AI Action Summit in Paris, France
 - October 17-20, 2024: [mAIfuture](https://maifuture.pl){:target="_blank" rel="noopener"} at the Cambridge Innovation Center, Warsaw
