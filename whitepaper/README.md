@@ -1,5 +1,5 @@
 
-[![White Paper Available Now](../assets/whitepaper.png)](https://zenodo.org/records/13914560){:target="_blank" rel="noopener"}
+[![White Paper Available Now](../assets/whitepaper.png)](https://drive.google.com/file/d/1bcCPdRHyUGFB23--6wn4j1f9mRgdG2QF/view?usp=sharing){:target="_blank" rel="noopener"}
 
 This whitepaper sets out a vision for a different path for AI. Societies don’t have to just consume the AI technologies shaping their lives—they can create them. We call for a new collective enterprise: building AI infrastructure for the common good. Public investments can unleash a wave of innovation, expanding access to better tools, and in time expanding our collective imagination. 
 
