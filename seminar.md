@@ -10,14 +10,14 @@ A research seminar to study public AI and other forms of public interest AI.
 Season 3 will start on April 22, 2025. We will survey diverse positions on AI emerging from art, culture, and the creative industries. In particular, we will consider the relationship between AI and the creative industries through four lenses: political power, cultural power, technological power, and economic power. Several spots will be reserved for creative professionals in any medium interested in exploring public AI. If you are interested in joining the seminar, please [apply here](https://forms.gle/1f8fkcCEjEoJF6L78) by April 15, 2025.
 
 - (Optional) April 21: Introductions & goals of the seminar
-- April 22: Do Not Train, with Mat Dryhurst (artist), and AI and copyright, with Reema Selhi (DACS, British Copyright Council)
-- April 29: Generative AI is not useful for making art, with Ted Chiang (author) - [Video](), [Summary]()
-- May 6: Community data and the case of Common Voice, with EM Lewis-Jong (Mozilla)
-- May 13: A Vision for Public AI in California, with Teri Olle and Taylor Jo Isenberg (Economic Security Project)
+- April 22: Do Not Train, with Mat Dryhurst (artist), and AI and copyright, with Reema Selhi (DACS, British Copyright Council) - [Video](https://youtu.be/PTXqXvWh5jk), [Summary](https://docs.google.com/document/d/1dA6y01RaEvgApO6VrCAEjd4K-eZl5U9oN_2xP40GzNs/edit?tab=t.0)
+- April 29: Generative AI is not useful for making art, with Ted Chiang (author) - [Summary](https://docs.google.com/document/d/1BT8JzaEb3A75920zl5WjiXxfq2l5qtA0dEsT9n8YkGk/edit?tab=t.0)
+- May 6: Community data and the case of Common Voice, with EM Lewis-Jong (Mozilla) - [Video](https://youtu.be/QI6vm8C7YLM), [Summary](https://docs.google.com/document/d/11K5Mln8f4RmzTqmjfwahsRJax3SepiiRgE24Kv0-op8/edit?tab=t.0)
+- May 13: A Vision for Public AI in California, with Teri Olle and Taylor Jo Isenberg (Economic Security Project) - [Video](https://youtu.be/HorkM5CndtE), [Summary](https://docs.google.com/document/d/1rjO6enuPU7YlCb_RCnAmhfs9nW_v7CNy9suXTlTSOjE/edit?usp=drive_link)
 - May 20: Public interest AI, with Martin Tisné (AI Collaborative, Current AI) - [Video](https://youtu.be/3kd39SvaOr8), [Summary](https://docs.google.com/document/d/1mFQvRwSY3ou9eVSEdnJJrgI61g-I3rRs_kWbmmWU-S0/edit?tab=t.0)
-- May 27: AI & entertainment industry, with David White (3CG Ventures), and AI & the freelancer economy, with Angie Kim and Jessica Mele (CCI)
-- June 3: Past and future narratives for tech, with Gideon Lichfield (journalist), Nils Gilman (historian), and Marietje Schaake (politician)
-- ~June 10: The near possible future of AI, with Kim Stanley Robinson (author)
+- May 27: AI & entertainment industry, with David White (3CG Ventures), and AI & the freelancer economy, with Angie Kim and Jessica Mele (CCI) - [Video](), [Summary]()
+- June 3: Past and future narratives for tech, with Gideon Lichfield (journalist), Nils Gilman (historian), and Marietje Schaake (politician) - [Video](), [Summary]()
+- ~June 10: The near possible future of AI, with Kim Stanley Robinson (author) - [Video](), [Summary]()
 
 Organizers: Joshua Tan (Metagov), Alek Tarkowski (Open Future), Victoria Ivanova (Serpentine Galleries), B Cavello (Aspen Digital)
 
