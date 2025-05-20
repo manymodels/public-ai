@@ -12,7 +12,7 @@ Season 3 will start on April 22, 2025. We will survey diverse positions on AI em
 - (Optional) April 21: Introductions & goals of the seminar
 - April 22: Do Not Train, with Mat Dryhurst (artist), and AI and copyright, with Reema Selhi (DACS, British Copyright Council) - [Video](https://youtu.be/PTXqXvWh5jk), [Summary](https://docs.google.com/document/d/1dA6y01RaEvgApO6VrCAEjd4K-eZl5U9oN_2xP40GzNs/edit?tab=t.0)
 - April 29: Generative AI is not useful for making art, with Ted Chiang (author) - [Summary](https://docs.google.com/document/d/1BT8JzaEb3A75920zl5WjiXxfq2l5qtA0dEsT9n8YkGk/edit?tab=t.0)
-- May 6: Community data and the case of Common Voice, with EM Lewis-Jong (Mozilla) - [Video](https://youtu.be/QI6vm8C7YLM), [Summary](https://docs.google.com/document/d/11K5Mln8f4RmzTqmjfwahsRJax3SepiiRgE24Kv0-op8/edit?tab=t.0)
+- May 6: Community data and the case of Common Voice, with EM Lewis-Jong (Mozilla) - [Summary](https://docs.google.com/document/d/11K5Mln8f4RmzTqmjfwahsRJax3SepiiRgE24Kv0-op8/edit?tab=t.0)
 - May 13: A Vision for Public AI in California, with Teri Olle and Taylor Jo Isenberg (Economic Security Project) - [Video](https://youtu.be/HorkM5CndtE), [Summary](https://docs.google.com/document/d/1rjO6enuPU7YlCb_RCnAmhfs9nW_v7CNy9suXTlTSOjE/edit?usp=drive_link)
 - May 20: Public interest AI, with Martin Tisné (AI Collaborative, Current AI) - [Video](https://youtu.be/3kd39SvaOr8), [Summary](https://docs.google.com/document/d/1mFQvRwSY3ou9eVSEdnJJrgI61g-I3rRs_kWbmmWU-S0/edit?tab=t.0)
 - May 27: AI & entertainment industry, with David White (3CG Ventures), and AI & the freelancer economy, with Angie Kim and Jessica Mele (CCI)
