@@ -15,11 +15,11 @@ Season 3 will start on April 22, 2025. We will survey diverse positions on AI em
 - May 6: Community data and the case of Common Voice, with EM Lewis-Jong (Mozilla) - [Video](https://youtu.be/QI6vm8C7YLM), [Summary](https://docs.google.com/document/d/11K5Mln8f4RmzTqmjfwahsRJax3SepiiRgE24Kv0-op8/edit?tab=t.0)
 - May 13: A Vision for Public AI in California, with Teri Olle and Taylor Jo Isenberg (Economic Security Project) - [Video](https://youtu.be/HorkM5CndtE), [Summary](https://docs.google.com/document/d/1rjO6enuPU7YlCb_RCnAmhfs9nW_v7CNy9suXTlTSOjE/edit?usp=drive_link)
 - May 20: Public interest AI, with Martin Tisné (AI Collaborative, Current AI) - [Video](https://youtu.be/3kd39SvaOr8), [Summary](https://docs.google.com/document/d/1mFQvRwSY3ou9eVSEdnJJrgI61g-I3rRs_kWbmmWU-S0/edit?tab=t.0)
-- May 27: AI & entertainment industry, with David White (3CG Ventures), and AI & the freelancer economy, with Angie Kim and Jessica Mele (CCI) - [Video](), [Summary]()
-- June 3: Past and future narratives for tech, with Gideon Lichfield (journalist), Nils Gilman (historian), and Marietje Schaake (politician) - [Video](), [Summary]()
-- ~June 10: The near possible future of AI, with Kim Stanley Robinson (author) - [Video](), [Summary]()
+- May 27: AI & entertainment industry, with David White (3CG Ventures), and AI & the freelancer economy, with Angie Kim and Jessica Mele (CCI)
+- June 3: Past and future narratives for tech, with Gideon Lichfield (journalist), Nils Gilman (historian), and Marietje Schaake (politician)
+- ~June 10: The near possible future of AI, with Kim Stanley Robinson (author)
 
-Organizers: Joshua Tan (Metagov), Alek Tarkowski (Open Future), Victoria Ivanova (Serpentine Galleries), B Cavello (Aspen Digital)
+Organizers: Joshua Tan (Metagov), Alek Tarkowski (Open Future), B Cavello (Aspen Digital)
 
 ## Season 2
 Season 2 will start on August 13, 2024 and conclude on October 15, 2024. We will focus especially on connecting and relating a cluster of political narratives around public AI, including responsible/safe AI, public compute, sovereign/national AI, democratic AI, open source AI, and AI for science. If you are interested in joining the seminar, please [apply here](https://forms.gle/1f8fkcCEjEoJF6L78) by July 31, 2024.
