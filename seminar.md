@@ -15,9 +15,9 @@ Season 3 will start on April 22, 2025. We will survey diverse positions on AI em
 - May 6: Community data and the case of Common Voice, with EM Lewis-Jong (Mozilla) - [Summary](https://docs.google.com/document/d/11K5Mln8f4RmzTqmjfwahsRJax3SepiiRgE24Kv0-op8/edit?tab=t.0)
 - May 13: A Vision for Public AI in California, with Teri Olle and Taylor Jo Isenberg (Economic Security Project) - [Video](https://youtu.be/HorkM5CndtE), [Summary](https://docs.google.com/document/d/1rjO6enuPU7YlCb_RCnAmhfs9nW_v7CNy9suXTlTSOjE/edit?usp=drive_link)
 - May 20: Public interest AI, with Martin Tisné (AI Collaborative, Current AI) - [Video](https://youtu.be/3kd39SvaOr8), [Summary](https://docs.google.com/document/d/1mFQvRwSY3ou9eVSEdnJJrgI61g-I3rRs_kWbmmWU-S0/edit?tab=t.0)
-- May 27: AI & entertainment industry, with David White (3CG Ventures), and AI & the freelancer economy, with Angie Kim and Jessica Mele (CCI) - [Video](https://youtu.be/U3oJQ51vOBU)
-- June 3: Past and future narratives for tech, with Gideon Lichfield (journalist) and Nils Gilman (historian) - [Video](https://youtu.be/3UVfaegU2vk)
-- June 10: The near possible future of AI, with Kim Stanley Robinson (author) - [Video](https://youtu.be/qQe7H9CY5Bw)
+- May 27: AI & entertainment industry, with David White (3CG Ventures), and AI & the freelancer economy, with Angie Kim and Jessica Mele (CCI) - [Video](https://youtu.be/U3oJQ51vOBU), [Summary](https://docs.google.com/document/d/1lKzkxsS-8boabpbKud1X7iOhWWjWs-x1PnrhU6GnBsg/edit?tab=t.0)
+- June 3: Past and future narratives for tech, with Gideon Lichfield (journalist) and Nils Gilman (historian) - [Video](https://youtu.be/3UVfaegU2vk), [Summary](https://docs.google.com/document/d/1vWZQPKtWbtQM0AfJCjsSxNSZsZiSVBJ0f-V146nJ5DM/edit?tab=t.0)
+- June 10: The near possible future of AI, with Kim Stanley Robinson (author) - [Video](https://youtu.be/qQe7H9CY5Bw), [Summary](https://docs.google.com/document/d/1POa6jdSMKxWt-ktxoyxezLKu8PD4GtAxUshSAdbtgU8/edit?tab=t.0)
 
 Organizers: Joshua Tan (Metagov), Alek Tarkowski (Open Future), B Cavello (Aspen Digital)
 
