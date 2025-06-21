@@ -34,7 +34,7 @@ Season 2 will start on August 13, 2024 and conclude on October 15, 2024. We will
 - September 24: GPT-SW3, with Magnus Sahlgren (AI Sweden) - [Video](https://www.youtube.com/watch?v=0ak4vcFCjSA&list=PL95oM4NmjfADBo-cZ4fYjw8Hd1rn0sILL), [Summary](https://docs.google.com/document/d/1zp2mVGcPRIUPe_h4GqT12-tyCkVO-RTj3LSugiPv3ek/edit?tab=t.0#heading=h.d5078j16iqmz)
 - October 1: Community power in AI, with Jeni Tennison (Connected by Data) - [Video](https://www.youtube.com/watch?v=C6lUBq59m5M&list=PL95oM4NmjfADBo-cZ4fYjw8Hd1rn0sILL&index=1), [Summary](https://docs.google.com/document/d/1uHOgx85q3v1mgO_xOfelYU5nlsFYgk7nlshmLt7qAKo/edit?tab=t.0)
 - October 8: The AI Dilemma, with Aza Raskin (Center for Humane Technology) - [Video](https://www.youtube.com/watch?v=gmtHT2zt-4g&list=PL95oM4NmjfADBo-cZ4fYjw8Hd1rn0sILL&index=2), [Summary](https://docs.google.com/document/d/1ATwQxTheRL7QOFGSbVO2Di2TCdbEr-GlVKBj3ldAR6U/edit?tab=t.0)
-- October 15: AI Nationalisms, with Sarah Myers West and Amba Kak (AI Now) - Video, [Summary](https://docs.google.com/document/d/10o_fJVzRHsSxcSMJuyp4UmG9IlYMB-dO8EDs8Vqa6Uc/edit?tab=t.0)
+- October 15: AI Nationalisms, with Sarah Myers West and Amba Kak (AI Now) - [Video](https://youtu.be/_fqbtIQtHFE), [Summary](https://docs.google.com/document/d/10o_fJVzRHsSxcSMJuyp4UmG9IlYMB-dO8EDs8Vqa6Uc/edit?tab=t.0)
 
 Organizers: Joshua Tan (Oxford, Metagov), Alex Krasodomski (Chatham House), B Cavello (Aspen Digital)
 
