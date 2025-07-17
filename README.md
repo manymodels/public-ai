@@ -23,14 +23,14 @@ Public AI is **AI as public infrastructure**: AI provisioned like electricity, p
 
 ## Who we are
 
-The **Public AI Network** is a coalition working to bring about public AI. We aim to:
+The **Public AI Network** (PAINT) is a coalition working to bring about public AI. We aim to:
 
 - Ensure public capacity-building is part of the conversation about AI design, policy, and funding
 - Make it easier to build public AI by coordinating research efforts in the ML community
 - Support policymakers and technical teams seeking to implement public AI
-- Organize the movement for public AI
+- Organize the broader movement for public AI
 
-We host a Slack community which connects together experts from leading public AI projects, thinktanks, and civil society groups. We also host a regular [seminar series](https://publicai.network/seminar) that shares insights from leaders in the field such as [Yoshua Bengio](https://archive.org/details/public-ai-bengio), [Diane Coyle](https://archive.org/details/public-ai-coyle), and [Lawrence Lessig](https://archive.org/details/public-ai-lessig).
+We host a Slack community which connects together experts from leading public AI labs, projects, and civil society groups. We also host many events (see below) and a regular [seminar series](https://publicai.network/seminar) that shares insights from leaders in the field such as [Yoshua Bengio](https://archive.org/details/public-ai-bengio), [Diane Coyle](https://archive.org/details/public-ai-coyle), and [Lawrence Lessig](https://archive.org/details/public-ai-lessig).
 
 ## Learn more
 
@@ -50,9 +50,10 @@ Public AI is a public, collaborative effort.
 
 ## Events
 
-- July 31, 2025: Public AI: Policy, Communiy, and the Future of National Labs at [TPC 2025](tpc25.org) in San Jose, California
-- July 16, 2025: [Oh Canada! A Public AI Happy Hour](https://lu.ma/7rjoaxts) at ICML 2025 in Vancouver, Canada
-- April 26, 2025: [Public AI Dinner & Salon](https://lu.ma/6zeopix2) at ICLR 2025 in Singapore
+- September 10, 2025: the 1st [Public AI Quarterquall](https://lu.ma/g9fafiq0){:target="_blank" rel="noopener"} (online)
+- July 31, 2025: Public AI: Policy, Communiy, and the Future of National Labs at [TPC 2025](tpc25.org){:target="_blank" rel="noopener"} in San Jose, California
+- July 16, 2025: [Oh Canada! A Public AI Happy Hour](https://lu.ma/7rjoaxts){:target="_blank" rel="noopener"} at ICML 2025 in Vancouver, Canada
+- April 26, 2025: [Public AI Dinner & Salon](https://lu.ma/6zeopix2){:target="_blank" rel="noopener"} at ICLR 2025 in Singapore
 - April 24-25, 2025: Commercializing Public AI at the Barcelona Supercomputing Center in Barcelona, Spain
 - February 12-15, 2025: [AI Action II](https://docs.google.com/document/d/1IyP2jGob6Zxp1V7jjN1Ax--r45FHGYBgDhK31eoMNVU/edit?tab=t.0){:target="_blank" rel="noopener"} at Chateau du Fey in Joigny, France
 - February 11, 2025: [Public AI Congress](https://lu.ma/5h2x0n33){:target="_blank" rel="noopener"} and Public AI House at AI Action Summit in Paris, France
@@ -73,7 +74,7 @@ Public AI is a public, collaborative effort.
 
 ## Acknowledgements
 
-A [wide range of people](https://docs.google.com/document/d/1ykjsXpTRZu4Obu9miJlkR9vIqWSLey5m0G4Utlm6HBg/edit#heading=h.v36dq6wln0nk){:target="_blank" rel="noopener"} have contributed ideas and time to the movement for public AI. We gratefully acknowledge operational support by [Metagov](https://metagov.org){:target="_blank" rel="noopener"}, [Aspen Digital](https://www.aspendigital.org/){:target="_blank" rel="noopener"}, [Open Future](https://openfuture.eu/){:target="_blank" rel="noopener"}, [Public Knowledge](https://publicknowledge.org){:target="_blank" rel="noopener"}, [Code for Science and Society](https://www.codeforsociety.org/){:target="_blank" rel="noopener"}, [Mozilla](https://mozilla.org){:target="_blank" rel="noopener"}, the [Internet Archive](https://archive.org){:target="_blank" rel="noopener"}, [Chatham House](https://www.chathamhouse.org/){:target="_blank" rel="noopener"}, and many more organizations.
+A [wide range of people](https://docs.google.com/document/d/1ykjsXpTRZu4Obu9miJlkR9vIqWSLey5m0G4Utlm6HBg/edit#heading=h.v36dq6wln0nk){:target="_blank" rel="noopener"} have contributed ideas and time to the movement for public AI. We gratefully acknowledge operational support by [Metagov](https://metagov.org){:target="_blank" rel="noopener"}, [Aspen Digital](https://www.aspendigital.org/){:target="_blank" rel="noopener"}, [Open Future](https://openfuture.eu/){:target="_blank" rel="noopener"}, [Public Knowledge](https://publicknowledge.org){:target="_blank" rel="noopener"}, [Code for Science and Society](https://www.codeforsociety.org/){:target="_blank" rel="noopener"}, [Mozilla](https://mozilla.org){:target="_blank" rel="noopener"}, the [Internet Archive](https://archive.org){:target="_blank" rel="noopener"}, [Chatham House](https://www.chathamhouse.org/){:target="_blank" rel="noopener"}, the [Bertelsmann Foundation](https://www.bfna.org/){:target="_blank" rel="noopener"}, and many more organizations.
 
 ## License
 The work in this repository is licensed under the [Creative Commons Attribution-ShareAlike 4.0 International license](https://creativecommons.org/licenses/by-sa/4.0/){:target="_blank" rel="noopener"}.
