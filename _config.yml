@@ -2,16 +2,23 @@ markdown: kramdown
 theme: minima
 title: Public AI Network
 description: A coalition to build public AI
+author:
+  name: Public AI Network
+  email: info@publicai.network
+
+# Plugins
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
 
 # Theme-specific settings
 
 minima:
-
-header_pages:
-- seminar.md
-
-# Set to `true` to show excerpts on the homepage.
-show_excerpts: true
+  nav_pages:
+  - libraries.md
+  - seminar.md
+  # Set to `true` to show excerpts on the homepage.
+  show_excerpts: true
 
 google_analytics: G-8CM1DYG2FB
 

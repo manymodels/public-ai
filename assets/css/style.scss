@@ -1,0 +1,52 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+
+@import
+  "minima/skins/{{ site.minima.skin | default: 'classic' }}",
+  "minima/initialize";
+
+body {
+    font-family: Helvetica, Arial, sans-serif;
+}
+
+.site-title{ 
+    font-size: 0px;
+    background: url("/assets/logo-old.png");
+    background-size: 100%;
+    display: block;
+    width: 150px;
+    height: 40px;
+    position: relative;
+    top: 10px;
+}
+
+a.button {
+    background: #EF233C;
+    color: white;
+    padding: 10px 14px;
+}
+a.button:hover {
+    text-decoration: none;
+    color: #EEDFDF
+}
+
+a.button::after{
+    content: '→';
+    position: relative;
+    margin-left: 5px;
+}
+
+h2 {
+    font-weight: bold;
+    letter-spacing: -0.5px;
+    margin-top: 30px;
+}
+    
+.home blockquote{
+    background: #EEE;
+    color: #000;
+    padding: 20px;
+    font-size: 24px;
+    font-style: none;
+}
