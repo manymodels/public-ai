@@ -6,8 +6,9 @@ description: A coalition to build public AI
 # Theme-specific settings
 
 minima:
-  nav_pages:
-    - seminar.md
+
+header_pages:
+- seminar.md
 
 # Set to `true` to show excerpts on the homepage.
 show_excerpts: true
