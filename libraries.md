@@ -1,10 +1,9 @@
 ---
-title: Libraries
+title: Building Public AI with Libraries
 layout: page
+nav_title: Libraries
 description: An AI pilot program for public libraries.
 ---
-
-# Building Public AI with Libraries
 
 ## A New Role for Libraries in the AI Age
 
