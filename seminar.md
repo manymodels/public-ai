@@ -1,6 +1,7 @@
 ---
 title: Public AI Seminar
 layout: page
+nav_title: Seminar
 description: A research seminar to study public AI and other forms of public interest AI.
 ---
 
