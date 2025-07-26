@@ -39,7 +39,7 @@ We’re looking for libraries across **diverse regions and community types**. Id
 We envision a fast-paced, dynamic program where we iterate and co-design the software in partnership with members of the pilot program. Each applicant team should include one library director who can champion the project and one member of staff who is able to run it and serve as the regular point-of-contact.
 
 **Interested in becoming a pilot site? Want to learn more?**
-Apply at [this form](https://forms.gle/FPJhXAhnZ4pcqwuT9) by July 5, 2025. Questions? Reach out to: [josh@publicai.network](mailto:josh@publicai.network).
+Apply at [this form](https://forms.gle/FPJhXAhnZ4pcqwuT9) by September 25, 2025. Questions? Reach out to: [info@publicai.network](mailto:info@publicai.network).
 
 ## What Is Public AI?
 
@@ -51,7 +51,7 @@ Public AI is AI as public infrastructure—like public parks, highways, electric
 
 - [Library of Congress](https://loc.gov)
 - [Metagov](https://metagov.org/)
-- [Mozilla](https://mozilla.org)
+- [Public Knowledge](https://publicknowledge.org)
 - [Internet Archive](https://archive.org/)
 - [Utah State Library](https://library.utah.gov/)
 - [New Jersey State Library](https://www.njstatelib.org)
