@@ -5,9 +5,7 @@ nav_title: Libraries
 description: An AI pilot program for public libraries.
 ---
 
-## A New Role for Libraries in the AI Age
-
-Public libraries have long served as trusted centers for information, learning, and community. Now, they have a chance to become something even more: trusted providers of **public AI**.
+Public libraries have long served as trusted centers for information, learning, and community. We believe they can also shine as trusted providers of community-based AI services and infrastructure, a.k.a. **public AI**.
 
 The Library of Congress, Metagov, and Public Knowledge, in partnership with the [Utah State Library](https://library.utah.gov/) and the [New Jersey State Library](https://www.njstatelib.org/), are launching a pilot program to bring **community-based AI services** to public libraries across the United States. This is your opportunity to join a national effort to make **AI more accessible and useful for your community.**
 
