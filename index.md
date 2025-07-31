@@ -1,6 +1,7 @@
 ---
 title: Public AI Network
 layout: home
+nav_title: 
 description: A coalition building AI as public infrastructure.
 ---
 [![White Paper Available Now](assets/whitepaper.png)](https://drive.google.com/file/d/1bcCPdRHyUGFB23--6wn4j1f9mRgdG2QF/view?usp=sharing){:target="_blank" rel="noopener"}
