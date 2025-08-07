@@ -1,5 +1,6 @@
 ---
 title: Speculative Fiction Contest
+nav_title: Fiction
 layout: page
 ---
 
@@ -10,6 +11,7 @@ Fire up your keyboards!
 Prompt: ...
 
 Prize: > $2500
+
 Length: 🤷
 
 Judges:
