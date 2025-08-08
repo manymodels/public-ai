@@ -54,6 +54,7 @@ Public AI is a public, collaborative effort.
 - To edit this site (e.g. to add an event or document), go to [our GitHub](https://github.com/manymodels/public-ai){:target="_blank" rel="noopener"}.
 
 ## Events
+Upcoming events in Zurich and Los Angeles.
 
 <!-- - September 9, 2025: the [1st Public AI Quarterquall](https://lu.ma/g9fafiq0){:target="_blank" rel="noopener"} (online) -->
 - July 31, 2025: Public AI: Policy, Communiy, and the Future of National Labs at [TPC 2025](tpc25.org){:target="_blank" rel="noopener"} in San Jose, California
