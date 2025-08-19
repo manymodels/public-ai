@@ -57,7 +57,7 @@ Public AI is a public, collaborative effort.
 Upcoming events in Zurich and Los Angeles.
 
 <!-- - September 9, 2025: the [1st Public AI Quarterquall](https://lu.ma/g9fafiq0){:target="_blank" rel="noopener"} (online) -->
-- July 31, 2025: Public AI: Policy, Communiy, and the Future of National Labs at [TPC 2025](tpc25.org){:target="_blank" rel="noopener"} in San Jose, California
+- July 31, 2025: Public AI: Policy, Community, and the Future of National Labs at [TPC 2025](tpc25.org){:target="_blank" rel="noopener"} in San Jose, California
 - July 16, 2025: [Oh Canada! A Public AI Happy Hour](https://lu.ma/7rjoaxts){:target="_blank" rel="noopener"} at ICML 2025 in Vancouver, Canada
 - April 26, 2025: [Public AI Dinner & Salon](https://lu.ma/6zeopix2){:target="_blank" rel="noopener"} at ICLR 2025 in Singapore
 - April 24-25, 2025: Commercializing Public AI at the Barcelona Supercomputing Center in Barcelona, Spain
