@@ -51,7 +51,7 @@ Public AI is a public, collaborative effort.
 - For questions about public AI or to get involved, sign up for [the newsletter](https://publicai.substack.com){:target="_blank" rel="noopener"} or [contact us](mailto:hello@publicai.network){:target="_blank" rel="noopener"}.
 - The [original wiki document](https://docs.google.com/document/d/1ykjsXpTRZu4Obu9miJlkR9vIqWSLey5m0G4Utlm6HBg/edit){:target="_blank" rel="noopener"} is publicly-editable. Add a suggestion!
 - [We're recruiting](https://docs.google.com/document/d/1jtfzDaQHqHaF8gypFmqo8JZwQvgKFdYHFG2rjxLst0k/edit){:target="_blank" rel="noopener"}!
-- To edit this site (e.g. to add an event or document), go to [our GitHub](https://github.com/manymodels/public-ai){:target="_blank" rel="noopener"}.
+- To edit this site (e.g. to add an event or document), go to [our GitHub](https://github.com/manymodels/publicai.network){:target="_blank" rel="noopener"}.
 
 ## Events
 Upcoming events in Zurich and Los Angeles.
